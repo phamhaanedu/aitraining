@@ -807,7 +807,12 @@ function renderPhoto(albumId, imageName) {
     // NAVIGATION LOGIC
     let photoList = [];
     let currentIndex = -1;
-    let backUrl = `album.html?album=${encodeURIComponent(album.id)}`;
+
+    // Default Back URL (Static Page)
+    let backUrl = `albums/${encodeURIComponent(album.id)}.html`;
+    if (params.category) {
+        backUrl += `?category=${encodeURIComponent(params.category)}`;
+    }
 
     if (tagContext) {
         // TAG CONTEXT: Collect all photos for this tag
