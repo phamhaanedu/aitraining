@@ -1,0 +1,36 @@
+{
+    "projectName": "My Gallery",
+    "browserIcon": "assets/gallery icon 32x32.png",
+    "projectLogo": "assets/gallery icon 100x100.png",
+    "defaultCategoryCover": "assets/default-category 200x200.png",
+    "defaultAlbumCover": "assets/default-album 200x200.png",
+    "categoryCovers": {
+        "Demo": "assets/test-category-1.png"
+    },
+    "masterCode": "1",
+    "layout": "masonry",
+    "dictionary": "assets/dict-en.json",
+    "baseUrl": "https://phamhaanedu.github.io/mygallery/",
+    "navbar": [
+        {
+            "label": "Home",
+            "url": "index.html",
+            "type": "link"
+        },
+        {
+            "label": "Categories",
+            "url": "categories.html",
+            "type": "link"
+        },
+        {
+            "label": "Tạo ảnh AI",
+            "url": "category/Tạo%20ảnh%20AI.html",
+            "type": "link"
+        },
+        {
+            "label": "Tags",
+            "url": "tags.html",
+            "type": "link"
+        }
+    ]
+}

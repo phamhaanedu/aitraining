@@ -1,0 +1,443 @@
+{
+  "config": {
+    "projectName": "My Gallery",
+    "browserIcon": "assets/gallery icon 32x32.png",
+    "projectLogo": "assets/gallery icon 100x100.png",
+    "defaultCategoryCover": "assets/default-category 200x200.png",
+    "defaultAlbumCover": "assets/default-album 200x200.png",
+    "categoryCovers": {
+      "Demo": "assets/test-category-1.png"
+    },
+    "layout": "masonry",
+    "dictionary": "assets/dict-en.json",
+    "baseUrl": "https://phamhaanedu.github.io/mygallery/",
+    "navbar": [
+      {
+        "label": "Home",
+        "url": "index.html",
+        "type": "link"
+      },
+      {
+        "label": "Categories",
+        "url": "categories.html",
+        "type": "link"
+      },
+      {
+        "label": "Tạo ảnh AI",
+        "url": "category/Tạo%20ảnh%20AI.html",
+        "type": "link"
+      },
+      {
+        "label": "Tags",
+        "url": "tags.html",
+        "type": "link"
+      }
+    ],
+    "masterHash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  "categories": {
+    "Tạo ảnh AI": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+  },
+  "tags": {
+    "PhuongZuly": {
+      "count": 22,
+      "cover": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+    },
+    "áo dài": {
+      "count": 22,
+      "cover": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+    },
+    "tết": {
+      "count": 22,
+      "cover": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+    }
+  },
+  "albums": [
+    {
+      "id": "Phương-Zuly-chào-xuân",
+      "title": "Phương Zuly chào xuân",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": "Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png",
+      "locked": false,
+      "unlockHash": null,
+      "images": [
+        {
+          "name": "Image_1iy5zx1iy5zx1iy5.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, chi tiết sắc nét, KHÔNG có sương mù, phông nền phải rõ ràng và sắc nét (độ sâu trường ảnh lớn).\nThể hiện dáng thanh lịch, sang trọng, quyến rũ, tự tin, toát lên khí chất siêu mẫu hạng A.\nTrang phục: áo dài màu đỏ tía với phần thân áo ren hoa dập nổi, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.\nTư thế: dáng người mẫu thời trang cao cấp - một tay giơ cao cầm quạt xếp màu be trên đầu như để che nắng, đầu hơi ngẩng lên, đường viền cổ và hàm sắc nét, tay kia đặt trên eo hoặc thả lỏng, dáng người trình diễn thời trang.\nĐịa điểm: sân chùa Việt Nam với mái ngói đỏ nâu, đèn lồng đá, tượng đá trắng, cây xanh và hoa vàng/cam rực rỡ, mọi thứ đều sắc nét và chi tiết. Chụp bằng máy ảnh Canon EOS R5, phong cách thời trang tạp chí chân thực, kết cấu vải sắc nét, kiến ​​trúc phông nền sắc nét. Máy ảnh: Canon EOS R5, 50mm, f/6.3, ISO 100, 1/640s.\nNegative prompt: hiệu ứng bokeh mờ, phông nền mờ, sương mù, khói, hơi nước, ánh sáng lung linh, lấy nét mềm, độ phân giải thấp, da nhân tạo, biến dạng cơ thể, thêm ngón tay, hình mờ, chữ viết.</p>\n"
+          }
+        },
+        {
+          "name": "Image_1te41te41te41te4.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_1te41te41te41te4_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_1te41te41te41te4_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_1te41te41te41te4.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, độ nét cao, KHÔNG có sương mù, phông nền phải rõ nét (độ sâu trường ảnh lớn). Thể hiện sự tự tin, năng động, sang trọng, toát lên vẻ siêu mẫu hạng A.\nTrang phục: áo dài màu đỏ tía với họa tiết hoa ren nổi, tay áo loe bằng vải organza hơi trong suốt, quần đỏ cùng màu.\nTư thế: siêu mẫu chuyên nghiệp năng động - hai tay nhẹ nhàng duỗi ra như đang xoay người, tay áo và áo dài rủ tự nhiên (đứng yên, không bị nhòe chuyển động). Tay trái có thể cầm túi xách màu kem thêu hoa hồng nhạt.\nĐịa điểm: dưới gốc cây bưởi/cam với ruy băng đỏ, đạo cụ bằng gỗ chạm khắc tinh xảo, tượng đá, kiến ​​trúc sân chùa hiện rõ, tán lá xanh và hoa rực rỡ, mọi thứ đều sắc nét và rõ ràng. Chụp bằng máy ảnh Canon EOS R5, chủ nghĩa hiện thực biên tập, kết cấu vải sắc nét, phông nền sắc nét, chuyển động được đóng băng rõ ràng. Máy ảnh: Canon EOS R5, 28–35mm, f/7.1, ISO 100, 1/800s.\nNegative prompt: hiện tượng nhòe chuyển động, nhòe nền, hiệu ứng bokeh, mờ ảo, sương mù, hơi nước, hiệu ứng mộng mơ, lấy nét mềm, độ phân giải thấp, hiện tượng nhiễu ảnh, hình mờ, văn bản.</p>\n"
+          }
+        },
+        {
+          "name": "Image_5wn12q5wn12q5wn1.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_5wn12q5wn12q5wn1_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_5wn12q5wn12q5wn1_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_5wn12q5wn12q5wn1.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, độ nét cao, KHÔNG có sương mù, phông nền phải rõ nét (độ sâu trường ảnh lớn). Thể hiện sự tự tin, năng động, sang trọng, toát lên vẻ siêu mẫu hạng A.\nTrang phục: áo dài màu đỏ tía với họa tiết hoa ren nổi, tay áo loe bằng vải organza hơi trong suốt, quần đỏ cùng màu.\nTư thế: siêu mẫu chuyên nghiệp năng động - hai tay nhẹ nhàng duỗi ra như đang xoay người, tay áo và áo dài rủ tự nhiên (đứng yên, không bị nhòe chuyển động). Tay trái có thể cầm túi xách màu kem thêu hoa hồng nhạt.\nĐịa điểm: dưới gốc cây bưởi/cam với ruy băng đỏ, đạo cụ bằng gỗ chạm khắc tinh xảo, tượng đá, kiến ​​trúc sân chùa hiện rõ, tán lá xanh và hoa rực rỡ, mọi thứ đều sắc nét và rõ ràng. Chụp bằng máy ảnh Canon EOS R5, chủ nghĩa hiện thực biên tập, kết cấu vải sắc nét, phông nền sắc nét, chuyển động được đóng băng rõ ràng. Máy ảnh: Canon EOS R5, 28–35mm, f/7.1, ISO 100, 1/800s.\nNegative prompt: hiện tượng nhòe chuyển động, nhòe nền, hiệu ứng bokeh, mờ ảo, sương mù, hơi nước, hiệu ứng mộng mơ, lấy nét mềm, độ phân giải thấp, hiện tượng nhiễu ảnh, hình mờ, văn bản.</p>\n"
+          }
+        },
+        {
+          "name": "Image_9epjx99epjx99epj.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_9epjx99epjx99epj_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_9epjx99epjx99epj_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_9epjx99epjx99epj.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, chi tiết sắc nét, KHÔNG mờ, KHÔNG sương mù, KHÔNG mộng mị, KHÔNG làm mờ hậu cảnh, phông nền phải rõ nét (độ sâu trường ảnh lớn).\nThần thái toát lên vẻ thanh lịch, tự tin, sang trọng của siêu mẫu hạng A. Trang phục: áo dài màu đỏ tươi với họa tiết ren hoa nổi trên thân áo, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu. Tư thế: mắt nhắm nhẹ, nụ cười tinh tế, tay phải khẽ chạm vào gần trước ngực, tay trái cầm túi xách màu kem thêu hoa hồng nhạt phía trước.\nĐịa điểm: sân chùa Việt Nam, mái ngói đỏ nâu, đèn lồng đá, tượng đá trắng, cây xanh, hoa vàng/cam, khung cảnh Tết Nguyên đán rộn ràng, mọi thứ đều sắc nét và rõ ràng.\nChụp bằng máy ảnh Canon EOS R5, thời trang biên tập, chi tiết da tự nhiên, kết cấu vải sắc nét, phông nền sắc nét. Máy ảnh: Canon EOS R5, 50mm, f/6.3, ISO 100, 1/640s.\nNegative prompt: làm mờ hậu cảnh, hiệu ứng bokeh, sương mù, khói, hơi nước, mộng mơ, ánh sáng dịu nhẹ, lấy nét mềm, làm mờ chuyển động, độ phân giải thấp, da nhân tạo, hiện tượng nhiễu ảnh, hình mờ, văn bản.</p>\n"
+          }
+        },
+        {
+          "name": "Image_grc0mvgrc0mvgrc0.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_grc0mvgrc0mvgrc0_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_grc0mvgrc0mvgrc0_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_grc0mvgrc0mvgrc0.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh toàn thân chất lượng 4K siêu thực, ánh sáng tự nhiên trong trẻo, độ nét cao, KHÔNG có sương mù, phông nền phải rõ nét (độ sâu trường ảnh lớn). Ttoát lên vẻ quyến rũ, tự tin của một siêu mẫu hạng A.\nTrang phục: áo dài màu đỏ tía với phần thân áo ren hoa nổi, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.\nTư thế: nghiêng người/nghiêng ba phần tư thanh lịch, biểu cảm điềm tĩnh, một tay thả lỏng về phía trước, tay kia cầm quạt xếp màu be sau lưng (quạt bị che khuất một phần), dáng người chuẩn sàn catwalk.\nĐịa điểm: sân chùa Việt Nam với mái ngói đỏ nâu và tượng đá trắng, cây xanh và hoa lá rực rỡ, mọi thứ đều sắc nét và chi tiết. Chụp bằng máy ảnh Canon EOS R5, phong cách thời trang tạp chí, kết cấu da tự nhiên, vải và phông nền sắc nét. Máy ảnh: Canon EOS R5, 35mm, f/8, ISO 100, 1/400s.\nNegative prompt: hiệu ứng bokeh mạnh, phông nền mờ, sương mù, khói, hơi nước, vẻ ngoài mộng mơ, lấy nét mềm, hiệu ứng CGI, biến dạng cơ thể, thêm ngón tay, hình mờ, chữ viết.</p>\n"
+          }
+        },
+        {
+          "name": "Image_hiezw0hiezw0hiez.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_hiezw0hiezw0hiez_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_hiezw0hiezw0hiez_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_hiezw0hiezw0hiez.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang Tết Nguyên Đán toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, độ nét cao, KHÔNG có sương mù, phông nền phải rõ nét (độ sâu trường ảnh lớn).\nThần thái tự tin, năng động nhưng vẫn toát lên vẻ sang trọng của siêu mẫu hạng A. Trang phục: áo dài màu đỏ đun với họa tiết ren hoa nổi, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.\nTư thế: đứng dưới gốc cây bưởi/cam đầy quả với ruy băng đỏ; tay phải giơ lên ​​gần một quả như đang cầu may, tay trái cầm một chiếc túi xách màu kem thêu với những cành hoa màu hồng nhạt.\nPhụ kiện bối cảnh: bàn thờ/hộp gỗ chạm khắc màu nâu đỏ cầu kỳ với chi tiết vàng ở gần đó, kiến ​​trúc sân chùa hiện rõ ở phía sau, tượng đá, tán lá xanh, hoa vàng/cam, mọi thứ đều sắc nét và rõ ràng.\nChụp bằng máy ảnh Canon EOS R5, phong cách hiện thực, chất liệu vải sắc nét, phông nền sắc nét. Máy ảnh: Canon EOS R5, 28–35mm, f/7.1, ISO 100, 1/500s.\nNegative prompt: mờ nhòe, hiệu ứng bokeh làm mờ nền, sương mù, khói, ánh sáng lung linh, lấy nét mềm, độ phân giải thấp, da nhân tạo, hiện tượng nhiễu ảnh, hình mờ, chữ viết.</p>\n"
+          }
+        },
+        {
+          "name": "Image_hnyrlhhnyrlhhnyr.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_hnyrlhhnyrlhhnyr_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_hnyrlhhnyrlhhnyr_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_hnyrlhhnyrlhhnyr.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh toàn thân chất lượng 4K siêu thực, ánh sáng tự nhiên trong trẻo, độ nét cao, KHÔNG có sương mù, phông nền phải rõ nét (độ sâu trường ảnh lớn). Ttoát lên vẻ quyến rũ, tự tin của một siêu mẫu hạng A.\nTrang phục: áo dài màu đỏ tía với phần thân áo ren hoa nổi, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.\nTư thế: nghiêng người/nghiêng ba phần tư thanh lịch, biểu cảm điềm tĩnh, một tay thả lỏng về phía trước, tay kia cầm quạt xếp màu be sau lưng (quạt bị che khuất một phần), dáng người chuẩn sàn catwalk.\nĐịa điểm: sân chùa Việt Nam với mái ngói đỏ nâu và tượng đá trắng, cây xanh và hoa lá rực rỡ, mọi thứ đều sắc nét và chi tiết. Chụp bằng máy ảnh Canon EOS R5, phong cách thời trang tạp chí, kết cấu da tự nhiên, vải và phông nền sắc nét. Máy ảnh: Canon EOS R5, 35mm, f/8, ISO 100, 1/400s.\nGiữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.</p>\n<p>Ảnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, chi tiết sắc nét, KHÔNG mờ, KHÔNG sương mù, KHÔNG mộng mị, KHÔNG làm mờ hậu cảnh, phông nền phải rõ nét (độ sâu trường ảnh lớn).</p>\n<p>Toát lên vẻ thanh lịch, sang trọng, tự tin của siêu mẫu hạng A. Trang phục: áo dài Việt Nam màu đỏ tía với họa tiết ren hoa dập nổi trên thân áo, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.</p>\n<p>Tư thế: nghiêng người nhẹ tạo dáng chữ S, tay phải giơ cao cầm dải ruy băng đỏ, tay trái cầm túi xách vải thêu màu kem với những cành hoa màu hồng nhạt bên trong.</p>\n<p>Địa điểm: sân chùa truyền thống Việt Nam, mái ngói đỏ nâu, tượng đá trắng, đèn lồng đá, cây xanh và hoa vàng/cam, không khí lễ hội Tết Nguyên đán, ruy băng đỏ trong khung cảnh.</p>\n<p>Chụp bằng máy ảnh Canon EOS R5, kết cấu da tự nhiên, phong cách thời trang biên tập, độ nét cao, kết cấu vải sắc nét, kiến ​​trúc phông nền sắc nét. Máy ảnh: Canon EOS R5, 35mm, f/7.1, ISO 100, 1/500s, cân bằng trắng ánh sáng ban ngày.</p>\n<p>Negative prompt: mờ nhòe, hiệu ứng bokeh làm mờ hậu cảnh, sương mù, khói, hơi nước, ánh sáng lung linh, lấy nét mềm, độ phân giải thấp, nhiễu, da nhân tạo, hiệu ứng CGI, bàn tay biến dạng, thêm ngón tay, hình mờ, văn bản, logo.: hiệu ứng bokeh mạnh, phông nền mờ, sương mù, khói, hơi nước, vẻ ngoài mộng mơ, lấy nét mềm, hiệu ứng CGI, biến dạng cơ thể, thêm ngón tay, hình mờ, chữ viết.</p>\n"
+          }
+        },
+        {
+          "name": "Image_l3i9mpl3i9mpl3i9.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_l3i9mpl3i9mpl3i9_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_l3i9mpl3i9mpl3i9_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_l3i9mpl3i9mpl3i9.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, chi tiết sắc nét, KHÔNG mờ, KHÔNG sương mù, KHÔNG mộng mị, KHÔNG làm mờ hậu cảnh, phông nền phải rõ nét (độ sâu trường ảnh lớn).\nThần thái toát lên vẻ thanh lịch, tự tin, sang trọng của siêu mẫu hạng A. Trang phục: áo dài màu đỏ tươi với họa tiết ren hoa nổi trên thân áo, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu. Tư thế: mắt nhắm nhẹ, nụ cười tinh tế, tay phải khẽ chạm vào gần trước ngực, tay trái cầm túi xách màu kem thêu hoa hồng nhạt phía trước.\nĐịa điểm: sân chùa Việt Nam, mái ngói đỏ nâu, đèn lồng đá, tượng đá trắng, cây xanh, hoa vàng/cam, khung cảnh Tết Nguyên đán rộn ràng, mọi thứ đều sắc nét và rõ ràng.\nChụp bằng máy ảnh Canon EOS R5, thời trang biên tập, chi tiết da tự nhiên, kết cấu vải sắc nét, phông nền sắc nét. Máy ảnh: Canon EOS R5, 50mm, f/6.3, ISO 100, 1/640s.\nNegative prompt: làm mờ hậu cảnh, hiệu ứng bokeh, sương mù, khói, hơi nước, mộng mơ, ánh sáng dịu nhẹ, lấy nét mềm, làm mờ chuyển động, độ phân giải thấp, da nhân tạo, hiện tượng nhiễu ảnh, hình mờ, văn bản.</p>\n"
+          }
+        },
+        {
+          "name": "Image_pomhcopomhcopomh.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_pomhcopomhcopomh_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_pomhcopomhcopomh_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_pomhcopomhcopomh.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang Tết Nguyên Đán toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, độ nét cao, KHÔNG có sương mù, phông nền phải rõ nét (độ sâu trường ảnh lớn).\nThần thái tự tin, năng động nhưng vẫn toát lên vẻ sang trọng của siêu mẫu hạng A. Trang phục: áo dài màu đỏ đun với họa tiết ren hoa nổi, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.\nTư thế: đứng dưới gốc cây bưởi/cam đầy quả với ruy băng đỏ; tay phải giơ lên ​​gần một quả như đang cầu may, tay trái cầm một chiếc túi xách màu kem thêu với những cành hoa màu hồng nhạt.\nPhụ kiện bối cảnh: bàn thờ/hộp gỗ chạm khắc màu nâu đỏ cầu kỳ với chi tiết vàng ở gần đó, kiến ​​trúc sân chùa hiện rõ ở phía sau, tượng đá, tán lá xanh, hoa vàng/cam, mọi thứ đều sắc nét và rõ ràng.\nChụp bằng máy ảnh Canon EOS R5, phong cách hiện thực, chất liệu vải sắc nét, phông nền sắc nét. Máy ảnh: Canon EOS R5, 28–35mm, f/7.1, ISO 100, 1/500s.\nNegative prompt: mờ nhòe, hiệu ứng bokeh làm mờ nền, sương mù, khói, ánh sáng lung linh, lấy nét mềm, độ phân giải thấp, da nhân tạo, hiện tượng nhiễu ảnh, hình mờ, chữ viết.</p>\n"
+          }
+        },
+        {
+          "name": "Image_qkymchqkymchqkym.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_qkymchqkymchqkym_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_qkymchqkymchqkym_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_qkymchqkymchqkym.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, chi tiết sắc nét, KHÔNG mờ, KHÔNG sương mù, KHÔNG mộng mị, KHÔNG làm mờ hậu cảnh, phông nền phải rõ nét (độ sâu trường ảnh lớn).\nToát lên vẻ thanh lịch, sang trọng, tự tin của siêu mẫu hạng A. Trang phục: áo dài Việt Nam màu đỏ tía với họa tiết ren hoa dập nổi trên thân áo, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.\nTư thế: nghiêng người nhẹ tạo dáng chữ S, tay phải giơ cao cầm dải ruy băng đỏ, tay trái cầm túi xách vải thêu màu kem với những cành hoa màu hồng nhạt bên trong.\nĐịa điểm: sân chùa truyền thống Việt Nam, mái ngói đỏ nâu, tượng đá trắng, đèn lồng đá, cây xanh và hoa vàng/cam, không khí lễ hội Tết Nguyên đán, ruy băng đỏ trong khung cảnh.\nChụp bằng máy ảnh Canon EOS R5, kết cấu da tự nhiên, phong cách thời trang biên tập, độ nét cao, kết cấu vải sắc nét, kiến ​​trúc phông nền sắc nét. Máy ảnh: Canon EOS R5, 35mm, f/7.1, ISO 100, 1/500s, cân bằng trắng ánh sáng ban ngày.\nNegative prompt: mờ nhòe, hiệu ứng bokeh làm mờ hậu cảnh, sương mù, khói, hơi nước, ánh sáng lung linh, lấy nét mềm, độ phân giải thấp, nhiễu, da nhân tạo, hiệu ứng CGI, bàn tay biến dạng, thêm ngón tay, hình mờ, văn bản, logo.</p>\n"
+          }
+        },
+        {
+          "name": "Image_y0g6ely0g6ely0g6.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_y0g6ely0g6ely0g6_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_y0g6ely0g6ely0g6_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_y0g6ely0g6ely0g6.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, chi tiết sắc nét, KHÔNG mờ, KHÔNG sương mù, KHÔNG mộng mị, KHÔNG làm mờ hậu cảnh, phông nền phải rõ nét (độ sâu trường ảnh lớn).\nToát lên vẻ thanh lịch, sang trọng, tự tin của siêu mẫu hạng A. Trang phục: áo dài Việt Nam màu đỏ tía với họa tiết ren hoa dập nổi trên thân áo, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.\nTư thế: nghiêng người nhẹ tạo dáng chữ S, tay phải giơ cao cầm dải ruy băng đỏ, tay trái cầm túi xách vải thêu màu kem với những cành hoa màu hồng nhạt bên trong.\nĐịa điểm: sân chùa truyền thống Việt Nam, mái ngói đỏ nâu, tượng đá trắng, đèn lồng đá, cây xanh và hoa vàng/cam, không khí lễ hội Tết Nguyên đán, ruy băng đỏ trong khung cảnh.\nChụp bằng máy ảnh Canon EOS R5, kết cấu da tự nhiên, phong cách thời trang biên tập, độ nét cao, kết cấu vải sắc nét, kiến ​​trúc phông nền sắc nét. Máy ảnh: Canon EOS R5, 35mm, f/7.1, ISO 100, 1/500s, cân bằng trắng ánh sáng ban ngày.\nNegative prompt: mờ nhòe, hiệu ứng bokeh làm mờ hậu cảnh, sương mù, khói, hơi nước, ánh sáng lung linh, lấy nét mềm, độ phân giải thấp, nhiễu, da nhân tạo, hiệu ứng CGI, bàn tay biến dạng, thêm ngón tay, hình mờ, văn bản, logo.</p>\n"
+          }
+        },
+        {
+          "name": "Image_ya733xya733xya73.png",
+          "srcA": "split/Phương-Zuly-chào-xuân/Image_ya733xya733xya73_a.jpg",
+          "srcB": "split/Phương-Zuly-chào-xuân/Image_ya733xya733xya73_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_ya733xya733xya73.png",
+          "meta": {
+            "title": "Chào xuân",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết đi lễ chùa",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nẢnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, chi tiết sắc nét, KHÔNG có sương mù, phông nền phải rõ ràng và sắc nét (độ sâu trường ảnh lớn).\nThể hiện dáng thanh lịch, sang trọng, quyến rũ, tự tin, toát lên khí chất siêu mẫu hạng A.\nTrang phục: áo dài màu đỏ tía với phần thân áo ren hoa dập nổi, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.\nTư thế: dáng người mẫu thời trang cao cấp - một tay giơ cao cầm quạt xếp màu be trên đầu như để che nắng, đầu hơi ngẩng lên, đường viền cổ và hàm sắc nét, tay kia đặt trên eo hoặc thả lỏng, dáng người trình diễn thời trang.\nĐịa điểm: sân chùa Việt Nam với mái ngói đỏ nâu, đèn lồng đá, tượng đá trắng, cây xanh và hoa vàng/cam rực rỡ, mọi thứ đều sắc nét và chi tiết. Chụp bằng máy ảnh Canon EOS R5, phong cách thời trang tạp chí chân thực, kết cấu vải sắc nét, kiến ​​trúc phông nền sắc nét. Máy ảnh: Canon EOS R5, 50mm, f/6.3, ISO 100, 1/640s.\nGiữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.</p>\n<p>Ảnh thời trang toàn thân siêu thực 4K, ánh sáng tự nhiên trong trẻo, chi tiết sắc nét, KHÔNG mờ, KHÔNG sương mù, KHÔNG mộng mị, KHÔNG làm mờ hậu cảnh, phông nền phải rõ nét (độ sâu trường ảnh lớn).</p>\n<p>Toát lên vẻ thanh lịch, sang trọng, tự tin của siêu mẫu hạng A. Trang phục: áo dài Việt Nam màu đỏ tía với họa tiết ren hoa dập nổi trên thân áo, tay áo loe bằng vải organza mỏng, quần đỏ cùng màu.</p>\n<p>Tư thế: nghiêng người nhẹ tạo dáng chữ S, tay phải giơ cao cầm dải ruy băng đỏ, tay trái cầm túi xách vải thêu màu kem với những cành hoa màu hồng nhạt bên trong.</p>\n<p>Địa điểm: sân chùa truyền thống Việt Nam, mái ngói đỏ nâu, tượng đá trắng, đèn lồng đá, cây xanh và hoa vàng/cam, không khí lễ hội Tết Nguyên đán, ruy băng đỏ trong khung cảnh.</p>\n<p>Chụp bằng máy ảnh Canon EOS R5, kết cấu da tự nhiên, phong cách thời trang biên tập, độ nét cao, kết cấu vải sắc nét, kiến ​​trúc phông nền sắc nét. Máy ảnh: Canon EOS R5, 35mm, f/7.1, ISO 100, 1/500s, cân bằng trắng ánh sáng ban ngày.\nNegative prompt: mờ nhòe, hiệu ứng bokeh làm mờ hậu cảnh, sương mù, khói, hơi nước, ánh sáng lung linh, lấy nét mềm, độ phân giải thấp, nhiễu, da nhân tạo, hiệu ứng CGI, bàn tay biến dạng, thêm ngón tay, hình mờ, văn bản, logo.: hiệu ứng bokeh mờ, phông nền mờ, sương mù, khói, hơi nước, ánh sáng lung linh, lấy nét mềm, độ phân giải thấp, da nhân tạo, biến dạng cơ thể, thêm ngón tay, hình mờ, chữ viết.</p>\n"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Phương-Zuly-mời-trà",
+      "title": "Phương Zuly mời trà",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": "Phương-Zuly-mời-trà/Image_4twf9l4twf9l4twf.png",
+      "locked": true,
+      "unlockHash": "917adf1964c2772112669d809de9655b97ab6fb11242f802489b9689436e5a5a",
+      "images": [
+        {
+          "name": "Image_1iy5zx1iy5zx1iy5.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_1iy5zx1iy5zx1iy5_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_1iy5zx1iy5zx1iy5_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_1iy5zx1iy5zx1iy5.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ.\nTrang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. Phụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin.\nThần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. Ánh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”.\nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        },
+        {
+          "name": "Image_4twf9l4twf9l4twf.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_4twf9l4twf9l4twf_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_4twf9l4twf9l4twf_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_4twf9l4twf9l4twf.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ.\nTrang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. Phụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin.\nThần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. Ánh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”.\nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        },
+        {
+          "name": "Image_c6pi3gc6pi3gc6pi.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_c6pi3gc6pi3gc6pi_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_c6pi3gc6pi3gc6pi_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_c6pi3gc6pi3gc6pi.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ. Trang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. \nPhụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin. Thần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. \nÁnh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”. \nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        },
+        {
+          "name": "Image_d9fbrpd9fbrpd9fb.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_d9fbrpd9fbrpd9fb_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_d9fbrpd9fbrpd9fb_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_d9fbrpd9fbrpd9fb.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ. Trang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. \nPhụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin. Thần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. \nÁnh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”. \nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        },
+        {
+          "name": "Image_fcrm45fcrm45fcrm.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_fcrm45fcrm45fcrm_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_fcrm45fcrm45fcrm_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_fcrm45fcrm45fcrm.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. Không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nKhung hình dọc điện ảnh trong nhà, tông màu đất nung ấm áp. Phông nền treo họa tiết dân gian truyền thống, đèn trần cổ điển gợi không khí Tết xưa. Đối tượng ngồi trên giường gỗ tối màu. Phía trước: một mâm Tết đầy ắp bánh chưng, hành muối, mứt trái cây, quýt, ấm trà và khay gốm, được sắp xếp tự nhiên làm tiền cảnh.\nTrang phục: áo dài lụa đỏ truyền thống, cấu trúc hai vạt rõ ràng, cổ cao, tay áo dài rộng; vạt trước xòe thẳng xuống chân, các vạt chỉ hơi tách ra ở gấu áo để tạo dáng đúng chuẩn. Phụ kiện: vòng cổ ngọc trai lớn, nhiều lớp dây chuyền dài, khuyên tai nhỏ.\nTrang điểm: trang điểm điện ảnh ấm áp, lớp nền mỏng nhẹ, tạo khối rất mềm mại, má hồng đào đậm, mắt màu nâu đồng, kẻ mắt mỏng, lông mi mảnh, highlight nhẹ, son môi màu đỏ gạch bóng mượt.\nTư thế: ngồi gần mép giường gỗ, thân người quay 2/3 ra xa, đầu quay về phía máy ảnh với nụ cười rạng rỡ, vui vẻ. Một tay để dọc theo đùi, một tay tỳ lên bục đầu giường và cầm quạt đã được gấp lại.\nÁnh sáng: ánh sáng chính trung tính hơi cao và nghiêng, bóng đổ mềm mại; ánh sáng phụ trung tính giữ được chi tiết khay trà; ánh sáng viền mỏng tách biệt tóc và vai. Ống kính: 50mm, f/2.8, độ sâu trường ảnh trung bình. Lấy nét sắc nét vào khuôn mặt và nụ cười, hậu cảnh mờ nhẹ. Cân bằng trắng trung tính sạch sẽ, màu sắc ấm áp nhưng rõ ràng. Độ rõ nét của ánh sáng và độ tương phản vi mô, hiện tượng lóa sáng tối thiểu, hạt nhiễu rất nhẹ.</p>\n"
+          }
+        },
+        {
+          "name": "Image_ic0nlaic0nlaic0n.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_ic0nlaic0nlaic0n_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_ic0nlaic0nlaic0n_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_ic0nlaic0nlaic0n.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ. Trang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. \nPhụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin. Thần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. \nÁnh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”. \nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        },
+        {
+          "name": "Image_ku8m70ku8m70ku8m.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_ku8m70ku8m70ku8m_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_ku8m70ku8m70ku8m_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_ku8m70ku8m70ku8m.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ. Trang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. \nPhụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin. Thần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. \nÁnh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”. \nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        },
+        {
+          "name": "Image_pjykklpjykklpjyk.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_pjykklpjykklpjyk_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_pjykklpjykklpjyk_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_pjykklpjykklpjyk.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính. Không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nKhung hình dọc điện ảnh trong nhà, tông màu đất nung ấm áp. Phông nền treo họa tiết dân gian truyền thống, đèn trần cổ điển gợi không khí Tết xưa. Đối tượng ngồi trên giường gỗ tối màu. Phía trước: một mâm Tết đầy ắp bánh chưng, hành muối, mứt trái cây, quýt, ấm trà và khay gốm, được sắp xếp tự nhiên làm tiền cảnh.\nTrang phục: áo dài lụa đỏ truyền thống, cấu trúc hai vạt rõ ràng, cổ cao, tay áo dài rộng; vạt trước xòe thẳng xuống chân, các vạt chỉ hơi tách ra ở gấu áo để tạo dáng đúng chuẩn. Phụ kiện: vòng cổ ngọc trai lớn, nhiều lớp dây chuyền dài, khuyên tai nhỏ.\nTrang điểm: trang điểm điện ảnh ấm áp, lớp nền mỏng nhẹ, tạo khối rất mềm mại, má hồng đào đậm, mắt màu nâu đồng, kẻ mắt mỏng, lông mi mảnh, highlight nhẹ, son môi màu đỏ gạch bóng mượt.\nTư thế: ngồi gần mép giường gỗ, thân người quay 2/3 ra xa, đầu quay về phía máy ảnh với nụ cười rạng rỡ, vui vẻ. Một tay để dọc theo đùi, một tay tỳ lên bục đầu giường và cầm quạt đã được gấp lại.\nÁnh sáng: ánh sáng chính trung tính hơi cao và nghiêng, bóng đổ mềm mại; ánh sáng phụ trung tính giữ được chi tiết khay trà; ánh sáng viền mỏng tách biệt tóc và vai. Ống kính: 50mm, f/2.8, độ sâu trường ảnh trung bình. Lấy nét sắc nét vào khuôn mặt và nụ cười, hậu cảnh mờ nhẹ. Cân bằng trắng trung tính sạch sẽ, màu sắc ấm áp nhưng rõ ràng. Độ rõ nét của ánh sáng và độ tương phản vi mô, hiện tượng lóa sáng tối thiểu, hạt nhiễu rất nhẹ.</p>\n"
+          }
+        },
+        {
+          "name": "Image_pqzijopqzijopqzi.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_pqzijopqzijopqzi_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_pqzijopqzijopqzi_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_pqzijopqzijopqzi.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ.\nTrang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. Phụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin.\nThần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. Ánh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”.\nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        },
+        {
+          "name": "Image_u2sghu2sghu2sghu.png",
+          "srcA": "split/Phương-Zuly-mời-trà/Image_u2sghu2sghu2sghu_a.jpg",
+          "srcB": "split/Phương-Zuly-mời-trà/Image_u2sghu2sghu2sghu_b.jpg",
+          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_u2sghu2sghu2sghu.png",
+          "meta": {
+            "title": "Mời trà",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ.\nTrang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. Phụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin.\nThần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. Ánh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”.\nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        }
+      ]
+    }
+  ],
+  "dictionary": {
+    "__comment": "Dictionary for English",
+    "lockedTitle": "Locked Album",
+    "lockedMsg": "This album requires a code to access.",
+    "enterCodePlaceholder": "Enter Access Code",
+    "unlockBtn": "Unlock",
+    "incorrectCode": "Incorrect password",
+    "backToGallery": "Back to Gallery",
+    "waitingUnlock": "Waiting to unlock: "
+  }
+}
