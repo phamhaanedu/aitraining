@@ -51,6 +51,10 @@
       "count": 28,
       "cover": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
     },
+    "ảnh AI": {
+      "count": 8,
+      "cover": "thumbnails/Random-promt/random promt (1).jpg"
+    },
     "thư pháp": {
       "count": 5,
       "cover": "thumbnails/Tone-trầm-sang/Image_b5irt9b5irt9b5ir.png"
@@ -370,6 +374,17 @@
       ]
     },
     {
+      "id": "Mai–nơi-nắng-dừng-chân",
+      "title": "Mai – nơi nắng dừng chân",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": null,
+      "locked": true,
+      "unlockHash": "cd2eb0837c9b4c962c22d2ff8b5441b7b45805887f051d39bf133b583baf6860",
+      "images": []
+    },
+    {
       "id": "Mời-trà",
       "title": "Tone trầm sang",
       "categories": [
@@ -537,6 +552,130 @@
             ],
             "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
             "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ.\nTrang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. Phụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin.\nThần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. Ánh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”.\nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Random-promt",
+      "title": "Random promt",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": null,
+      "locked": true,
+      "unlockHash": "cd2eb0837c9b4c962c22d2ff8b5441b7b45805887f051d39bf133b583baf6860",
+      "images": [
+        {
+          "name": "random promt (1).jpg",
+          "srcA": "split/Random-promt/random promt (1)_a.jpg",
+          "srcB": "split/Random-promt/random promt (1)_b.jpg",
+          "thumb": "thumbnails/Random-promt/random promt (1).jpg",
+          "meta": {
+            "title": "Random prompt",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "",
+            "content": "<p>Create a realistic portrait (100% like the face), High-quality. A young woman with long wavy dark brown hair smiling directly at the camera.\nAttire and Accessories:\nShe is wearing a matching red and black horizontally striped ensemble, including a knee-length skirt and a draped, poncho-style top.\nShe wears a traditional headband adorned with feathers that features the text &quot;IGOROT STONE KINGDOM&quot; and a circular logo.\nOn her left wrist, she has a silver watch.\nPose: She stands with her arms crossed in front of her, centered in the frame.\nThe background is the Igorot Stone Kingdom, a large-scale attraction made of tiered, light-colored stone walls and towers.\nOther tourists and a traditional statue can be seen in the distance, suggesting a popular park or landmark.\nLighting: The photo is taken in soft, diffused natural daylight, creating a clear and detailed view of the subject and the stonework. make it realistic Add a small handwritten-style watermark that reads ‘Prompt by: Salie Francia’. Use a beautiful cursive font, thin strokes, low opacity, placed at the bottom left.Don’t change the face of reference image</p>\n"
+          }
+        },
+        {
+          "name": "random promt (2).jpg",
+          "srcA": "split/Random-promt/random promt (2)_a.jpg",
+          "srcB": "split/Random-promt/random promt (2)_b.jpg",
+          "thumb": "thumbnails/Random-promt/random promt (2).jpg",
+          "meta": {
+            "title": "Random prompt",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "",
+            "content": "<p>Create a realistic portrait (100% like the face), High-quality. A young woman with long wavy dark brown hair smiling directly at the camera.\nAttire and Accessories:\nShe is wearing a matching red and black horizontally striped ensemble, including a knee-length skirt and a draped, poncho-style top.\nShe wears a traditional headband adorned with feathers that features the text &quot;IGOROT STONE KINGDOM&quot; and a circular logo.\nOn her left wrist, she has a silver watch.\nPose: She stands with her arms crossed in front of her, centered in the frame.\nThe background is the Igorot Stone Kingdom, a large-scale attraction made of tiered, light-colored stone walls and towers.\nOther tourists and a traditional statue can be seen in the distance, suggesting a popular park or landmark.\nLighting: The photo is taken in soft, diffused natural daylight, creating a clear and detailed view of the subject and the stonework. make it realistic Add a small handwritten-style watermark that reads ‘Prompt by: Salie Francia’. Use a beautiful cursive font, thin strokes, low opacity, placed at the bottom left.Don’t change the face of reference image</p>\n"
+          }
+        },
+        {
+          "name": "random promt (3).jpg",
+          "srcA": "split/Random-promt/random promt (3)_a.jpg",
+          "srcB": "split/Random-promt/random promt (3)_b.jpg",
+          "thumb": "thumbnails/Random-promt/random promt (3).jpg",
+          "meta": {
+            "title": "Random prompt",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "",
+            "content": "<p>Create a realistic portrait (100% like the face), High-quality. A woman with long, dark, wavy hair looking toward the camera with a soft, pleasant expression.\nShe is wearing a white,off shoulder top\nHer outfit includes a vibrant blue skirt with a small white floral or polka-dot pattern, featuring a ruffled detail on the side.\nShe is wearing a wide-brimmed straw hat with a dark, frayed edge.\nPose and Action: She is walking with her back against a valley of colors in baguio city , with her hands raised behind her head to adjust or hold her hat and other hand holding ice cream\nSetting: The background location is valley of colors in la trinidad benguet in Baguio city philippines\nLighting and Style: The photo is captured in bright, natural daylight, creating a warm and airy atmosphere. The composition is a medium shot that highlights the colorful contrast between her blue skirt and the neutral background. make it realistic Add a small handwritten-style watermark that reads ‘Prompt by: Salie Francia’. Use a beautiful cursive font, thin strokes, low opacity, placed at the bottom left.Don’t change the face of reference image</p>\n"
+          }
+        },
+        {
+          "name": "random promt (4).jpg",
+          "srcA": "split/Random-promt/random promt (4)_a.jpg",
+          "srcB": "split/Random-promt/random promt (4)_b.jpg",
+          "thumb": "thumbnails/Random-promt/random promt (4).jpg",
+          "meta": {
+            "title": "Random prompt",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "",
+            "content": "<p>Create a realistic portrait (100% like the face), High-quality. 8K portrait. A woman with long, wavy dark brown hair is smiling warmly at the camera.\nShe is wearing a soft pink, long-sleeved shirt and denim jeans\nShe has a pair of sunglasses perched on top of her head.\nA silver bracelet is visible on her left wrist.\nShe is wearing white sneakers with blue accents.\nPose and Action: The woman is sitting upright on a white horse, holding the reins with her hands resting near the saddle.\nThe Horse: The horse is white with a light mane and is equipped with a colorful, patterned saddle blanket and a yellow and brown striped bridle.\nThe photo is taken in a sunlit forest or park with many tall pine trees in the background under a clear blue sky.\nThe ground is composed of reddish-brown dirt or pine needles.\nLighting and Composition: The image is lit by bright, natural daylight, creating a cheerful and adventurous mood. make it realistic Add a small handwritten-style watermark that reads ‘Prompt by: Salie Francia’. Use a beautiful cursive font, thin strokes, low opacity, placed at the bottom left.Don’t change the face of reference image</p>\n"
+          }
+        },
+        {
+          "name": "random promt (5).jpg",
+          "srcA": "split/Random-promt/random promt (5)_a.jpg",
+          "srcB": "split/Random-promt/random promt (5)_b.jpg",
+          "thumb": "thumbnails/Random-promt/random promt (5).jpg",
+          "meta": {
+            "title": "Random prompt",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "",
+            "content": "<p>Create a realistic portrait (100% like the face), High-quality. 8K portrait. A woman with long, dark brown , wavy hair and soft bangs. She is shown in a side profile, looking upward and toward the distance with a thoughtful or contemplative expression.\nShe is wearing off shoulder form-fitting white with pink floral dress.\nShe is holding a flowers in front of her with both hands.\nThe woman is surrounded by a dense field of tall, pink snapdragon flowers.\nThe background features a hazy, soft-focus view of distant mountains under a bright, clear sky.\nLighting and Atmosphere: The photo is characterized by bright, natural sunlight that creates a high-key, airy feel. The shallow depth of field keeps the focus sharply on the woman while beautifully blurring the floral surroundings and the mountainous landscape. make it realistic Add a small handwritten-style watermark that reads ‘Prompt by: Salie Francia’. Use a beautiful cursive font, thin strokes, low opacity, placed at the bottom left.Don’t change the face of reference image</p>\n"
+          }
+        },
+        {
+          "name": "random promt (6).jpg",
+          "srcA": "split/Random-promt/random promt (6)_a.jpg",
+          "srcB": "split/Random-promt/random promt (6)_b.jpg",
+          "thumb": "thumbnails/Random-promt/random promt (6).jpg",
+          "meta": {
+            "title": "Random prompt",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "",
+            "content": "<p>Create a realistic portrait (100% like the face), High-quality. 8K portrait. A woman with long wavy dark brown hair is sitting in the foreground, wearing a sky blue floral dress, white sneakers,the woman face is clearly visible\nThe Boat: They are inside a large, white paddle boat designed to look like a swan, with roof featuring large carved wings on the sides and a long neck with a red beak at the front. The number &quot;4&quot; is visible on the interior of one of the wings.\nThe boat is on a body of water with a distinct green tint.\nOther colorful paddle boats are visible in the distance across the lake.\nThe shoreline is lined with lush green trees.\nLighting and Composition: The photo is taken on a bright day with a full body shot, capturing a vast blue sky filled with soft, white clouds. The perspective is from the front of the boat looking back at the passengers. Add a small handwritten-style watermark that reads ‘Prompt by: Salie Francia’. Use a beautiful cursive font, thin strokes, low opacity, placed at the bottom left.Don’t change the face of reference image</p>\n"
+          }
+        },
+        {
+          "name": "random promt (7).jpg",
+          "srcA": "split/Random-promt/random promt (7)_a.jpg",
+          "srcB": "split/Random-promt/random promt (7)_b.jpg",
+          "thumb": "thumbnails/Random-promt/random promt (7).jpg",
+          "meta": {
+            "title": "Random prompt",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "",
+            "content": "<p>Create a realistic portrait (100% like the face), High-quality. A woman with long, dark, wavy hair looking toward the camera with a soft, pleasant expression.\nShe is wearing a soft lavender cardigan, cream top tank and long tulle skirt layered white.\nPose and Action: She is walking in flower field atok benguet baguio city , she is holding her woven bag\nSetting: The background location is Atok benguet flower field in Baguio city philippines\nLighting and Style: The photo is captured in bright, natural daylight, creating a warm and airy atmosphere. The composition is a medium shot that highlights the colorful contrast between her white skirt and the neutral background. make it realistic Add a small handwritten-style watermark that reads ‘Prompt by: Salie Francia’. Use a beautiful cursive font, thin strokes, low opacity, placed at the bottom left.Don’t change the face of reference image</p>\n"
+          }
+        },
+        {
+          "name": "random promt (8).jpg",
+          "srcA": "split/Random-promt/random promt (8)_a.jpg",
+          "srcB": "split/Random-promt/random promt (8)_b.jpg",
+          "thumb": "thumbnails/Random-promt/random promt (8).jpg",
+          "meta": {
+            "title": "Random prompt",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "",
+            "content": "<p>Create a realistic portrait (100% like the face), High-quality. A woman with her dark hair styled in a graceful updo, secured with a black bow clip. She is looking directly to the camera.smiling\nShe is wearing apple green floral maxi dress with a fitted waist and puff shoulders.\nHer accessories include a delicate gold butterfly necklace and silver watch.\nPose and Action: The woman is leaning forward slightly, reaching out with her left hand to touch or admire a cluster of orange and yellow flowers.\nSetting: The scene is a dense garden or field filled with vibrant Alstroemeria (Lily of the Incas) flowers in shades of pink, orange, and yellow.\nLighting and Composition: The photo is taken in soft, overcast daylight, which provides even illumination and enhances the saturated colors of the blooms. The composition uses a side-profile view to emphasize the subject's interaction with nature. make it realistic Add a small handwritten-style watermark that reads ‘Prompt by: Salie Francia’. Use a beautiful cursive font, thin strokes, low opacity, placed at the bottom left.Don’t change the face of reference image</p>\n"
           }
         }
       ]
