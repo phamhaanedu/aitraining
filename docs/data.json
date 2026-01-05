@@ -36,38 +36,38 @@
     "masterHash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
   },
   "categories": {
-    "Tạo ảnh AI": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+    "Tạo ảnh AI": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
   },
   "tags": {
     "PhuongZuly": {
       "count": 30,
-      "cover": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+      "cover": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
     },
     "áo dài": {
       "count": 30,
-      "cover": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+      "cover": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
     },
     "tết": {
       "count": 22,
-      "cover": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+      "cover": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
     }
   },
   "albums": [
     {
-      "id": "Phương-Zuly-chào-xuân",
-      "title": "Áo dài xanh bên hồ",
+      "id": "Chào-xuân",
+      "title": "Chào xuân",
       "categories": [
         "Tạo ảnh AI"
       ],
-      "cover": "Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png",
+      "cover": "Chào-xuân/Image_1iy5zx1iy5zx1iy5.png",
       "locked": false,
       "unlockHash": null,
       "images": [
         {
           "name": "Image_1iy5zx1iy5zx1iy5.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_1iy5zx1iy5zx1iy5.png",
+          "srcA": "split/Chào-xuân/Image_1iy5zx1iy5zx1iy5_a.jpg",
+          "srcB": "split/Chào-xuân/Image_1iy5zx1iy5zx1iy5_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -81,9 +81,9 @@
         },
         {
           "name": "Image_1te41te41te41te4.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_1te41te41te41te4_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_1te41te41te41te4_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_1te41te41te41te4.png",
+          "srcA": "split/Chào-xuân/Image_1te41te41te41te4_a.jpg",
+          "srcB": "split/Chào-xuân/Image_1te41te41te41te4_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_1te41te41te41te4.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -97,9 +97,9 @@
         },
         {
           "name": "Image_5wn12q5wn12q5wn1.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_5wn12q5wn12q5wn1_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_5wn12q5wn12q5wn1_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_5wn12q5wn12q5wn1.png",
+          "srcA": "split/Chào-xuân/Image_5wn12q5wn12q5wn1_a.jpg",
+          "srcB": "split/Chào-xuân/Image_5wn12q5wn12q5wn1_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_5wn12q5wn12q5wn1.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -113,9 +113,9 @@
         },
         {
           "name": "Image_9epjx99epjx99epj.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_9epjx99epjx99epj_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_9epjx99epjx99epj_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_9epjx99epjx99epj.png",
+          "srcA": "split/Chào-xuân/Image_9epjx99epjx99epj_a.jpg",
+          "srcB": "split/Chào-xuân/Image_9epjx99epjx99epj_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_9epjx99epjx99epj.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -129,9 +129,9 @@
         },
         {
           "name": "Image_grc0mvgrc0mvgrc0.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_grc0mvgrc0mvgrc0_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_grc0mvgrc0mvgrc0_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_grc0mvgrc0mvgrc0.png",
+          "srcA": "split/Chào-xuân/Image_grc0mvgrc0mvgrc0_a.jpg",
+          "srcB": "split/Chào-xuân/Image_grc0mvgrc0mvgrc0_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_grc0mvgrc0mvgrc0.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -145,9 +145,9 @@
         },
         {
           "name": "Image_hiezw0hiezw0hiez.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_hiezw0hiezw0hiez_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_hiezw0hiezw0hiez_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_hiezw0hiezw0hiez.png",
+          "srcA": "split/Chào-xuân/Image_hiezw0hiezw0hiez_a.jpg",
+          "srcB": "split/Chào-xuân/Image_hiezw0hiezw0hiez_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_hiezw0hiezw0hiez.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -161,9 +161,9 @@
         },
         {
           "name": "Image_hnyrlhhnyrlhhnyr.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_hnyrlhhnyrlhhnyr_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_hnyrlhhnyrlhhnyr_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_hnyrlhhnyrlhhnyr.png",
+          "srcA": "split/Chào-xuân/Image_hnyrlhhnyrlhhnyr_a.jpg",
+          "srcB": "split/Chào-xuân/Image_hnyrlhhnyrlhhnyr_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_hnyrlhhnyrlhhnyr.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -177,9 +177,9 @@
         },
         {
           "name": "Image_l3i9mpl3i9mpl3i9.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_l3i9mpl3i9mpl3i9_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_l3i9mpl3i9mpl3i9_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_l3i9mpl3i9mpl3i9.png",
+          "srcA": "split/Chào-xuân/Image_l3i9mpl3i9mpl3i9_a.jpg",
+          "srcB": "split/Chào-xuân/Image_l3i9mpl3i9mpl3i9_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_l3i9mpl3i9mpl3i9.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -193,9 +193,9 @@
         },
         {
           "name": "Image_pomhcopomhcopomh.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_pomhcopomhcopomh_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_pomhcopomhcopomh_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_pomhcopomhcopomh.png",
+          "srcA": "split/Chào-xuân/Image_pomhcopomhcopomh_a.jpg",
+          "srcB": "split/Chào-xuân/Image_pomhcopomhcopomh_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_pomhcopomhcopomh.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -209,9 +209,9 @@
         },
         {
           "name": "Image_qkymchqkymchqkym.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_qkymchqkymchqkym_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_qkymchqkymchqkym_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_qkymchqkymchqkym.png",
+          "srcA": "split/Chào-xuân/Image_qkymchqkymchqkym_a.jpg",
+          "srcB": "split/Chào-xuân/Image_qkymchqkymchqkym_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_qkymchqkymchqkym.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -225,9 +225,9 @@
         },
         {
           "name": "Image_y0g6ely0g6ely0g6.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_y0g6ely0g6ely0g6_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_y0g6ely0g6ely0g6_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_y0g6ely0g6ely0g6.png",
+          "srcA": "split/Chào-xuân/Image_y0g6ely0g6ely0g6_a.jpg",
+          "srcB": "split/Chào-xuân/Image_y0g6ely0g6ely0g6_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_y0g6ely0g6ely0g6.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -241,9 +241,9 @@
         },
         {
           "name": "Image_ya733xya733xya73.png",
-          "srcA": "split/Phương-Zuly-chào-xuân/Image_ya733xya733xya73_a.jpg",
-          "srcB": "split/Phương-Zuly-chào-xuân/Image_ya733xya733xya73_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-chào-xuân/Image_ya733xya733xya73.png",
+          "srcA": "split/Chào-xuân/Image_ya733xya733xya73_a.jpg",
+          "srcB": "split/Chào-xuân/Image_ya733xya733xya73_b.jpg",
+          "thumb": "thumbnails/Chào-xuân/Image_ya733xya733xya73.png",
           "meta": {
             "title": "Chào xuân",
             "tags": [
@@ -258,20 +258,20 @@
       ]
     },
     {
-      "id": "Phương-Zuly-mời-trà",
-      "title": "Phương Zuly mời trà",
+      "id": "Mời-trà",
+      "title": "Mời trà",
       "categories": [
         "Tạo ảnh AI"
       ],
-      "cover": "Phương-Zuly-mời-trà/Image_4twf9l4twf9l4twf.png",
+      "cover": "Mời-trà/Image_4twf9l4twf9l4twf.png",
       "locked": true,
       "unlockHash": "917adf1964c2772112669d809de9655b97ab6fb11242f802489b9689436e5a5a",
       "images": [
         {
           "name": "Image_1iy5zx1iy5zx1iy5.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_1iy5zx1iy5zx1iy5_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_1iy5zx1iy5zx1iy5_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_1iy5zx1iy5zx1iy5.png",
+          "srcA": "split/Mời-trà/Image_1iy5zx1iy5zx1iy5_a.jpg",
+          "srcB": "split/Mời-trà/Image_1iy5zx1iy5zx1iy5_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_1iy5zx1iy5zx1iy5.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -285,9 +285,9 @@
         },
         {
           "name": "Image_4twf9l4twf9l4twf.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_4twf9l4twf9l4twf_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_4twf9l4twf9l4twf_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_4twf9l4twf9l4twf.png",
+          "srcA": "split/Mời-trà/Image_4twf9l4twf9l4twf_a.jpg",
+          "srcB": "split/Mời-trà/Image_4twf9l4twf9l4twf_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_4twf9l4twf9l4twf.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -301,9 +301,9 @@
         },
         {
           "name": "Image_c6pi3gc6pi3gc6pi.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_c6pi3gc6pi3gc6pi_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_c6pi3gc6pi3gc6pi_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_c6pi3gc6pi3gc6pi.png",
+          "srcA": "split/Mời-trà/Image_c6pi3gc6pi3gc6pi_a.jpg",
+          "srcB": "split/Mời-trà/Image_c6pi3gc6pi3gc6pi_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_c6pi3gc6pi3gc6pi.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -317,9 +317,9 @@
         },
         {
           "name": "Image_d9fbrpd9fbrpd9fb.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_d9fbrpd9fbrpd9fb_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_d9fbrpd9fbrpd9fb_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_d9fbrpd9fbrpd9fb.png",
+          "srcA": "split/Mời-trà/Image_d9fbrpd9fbrpd9fb_a.jpg",
+          "srcB": "split/Mời-trà/Image_d9fbrpd9fbrpd9fb_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_d9fbrpd9fbrpd9fb.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -333,9 +333,9 @@
         },
         {
           "name": "Image_fcrm45fcrm45fcrm.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_fcrm45fcrm45fcrm_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_fcrm45fcrm45fcrm_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_fcrm45fcrm45fcrm.png",
+          "srcA": "split/Mời-trà/Image_fcrm45fcrm45fcrm_a.jpg",
+          "srcB": "split/Mời-trà/Image_fcrm45fcrm45fcrm_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_fcrm45fcrm45fcrm.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -349,9 +349,9 @@
         },
         {
           "name": "Image_ic0nlaic0nlaic0n.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_ic0nlaic0nlaic0n_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_ic0nlaic0nlaic0n_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_ic0nlaic0nlaic0n.png",
+          "srcA": "split/Mời-trà/Image_ic0nlaic0nlaic0n_a.jpg",
+          "srcB": "split/Mời-trà/Image_ic0nlaic0nlaic0n_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_ic0nlaic0nlaic0n.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -365,9 +365,9 @@
         },
         {
           "name": "Image_ku8m70ku8m70ku8m.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_ku8m70ku8m70ku8m_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_ku8m70ku8m70ku8m_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_ku8m70ku8m70ku8m.png",
+          "srcA": "split/Mời-trà/Image_ku8m70ku8m70ku8m_a.jpg",
+          "srcB": "split/Mời-trà/Image_ku8m70ku8m70ku8m_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_ku8m70ku8m70ku8m.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -381,9 +381,9 @@
         },
         {
           "name": "Image_pjykklpjykklpjyk.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_pjykklpjykklpjyk_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_pjykklpjykklpjyk_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_pjykklpjykklpjyk.png",
+          "srcA": "split/Mời-trà/Image_pjykklpjykklpjyk_a.jpg",
+          "srcB": "split/Mời-trà/Image_pjykklpjykklpjyk_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_pjykklpjykklpjyk.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -397,9 +397,9 @@
         },
         {
           "name": "Image_pqzijopqzijopqzi.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_pqzijopqzijopqzi_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_pqzijopqzijopqzi_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_pqzijopqzijopqzi.png",
+          "srcA": "split/Mời-trà/Image_pqzijopqzijopqzi_a.jpg",
+          "srcB": "split/Mời-trà/Image_pqzijopqzijopqzi_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_pqzijopqzijopqzi.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -413,9 +413,9 @@
         },
         {
           "name": "Image_u2sghu2sghu2sghu.png",
-          "srcA": "split/Phương-Zuly-mời-trà/Image_u2sghu2sghu2sghu_a.jpg",
-          "srcB": "split/Phương-Zuly-mời-trà/Image_u2sghu2sghu2sghu_b.jpg",
-          "thumb": "thumbnails/Phương-Zuly-mời-trà/Image_u2sghu2sghu2sghu.png",
+          "srcA": "split/Mời-trà/Image_u2sghu2sghu2sghu_a.jpg",
+          "srcB": "split/Mời-trà/Image_u2sghu2sghu2sghu_b.jpg",
+          "thumb": "thumbnails/Mời-trà/Image_u2sghu2sghu2sghu.png",
           "meta": {
             "title": "Mời trà",
             "tags": [
@@ -431,7 +431,7 @@
     },
     {
       "id": "Áo-dài-xanh-bên-hồ",
-      "title": "Phương Zuly chào xuân",
+      "title": "Áo dài xanh bên hồ",
       "categories": [
         "Tạo ảnh AI"
       ],
