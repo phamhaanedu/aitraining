@@ -268,7 +268,7 @@
         "Tạo ảnh AI"
       ],
       "cover": "Hồng-một-chút-xuân-cả-năm/Image_b5irt9b5irt9b5ir1.png",
-      "locked": true,
+      "locked": false,
       "unlockHash": null,
       "images": [
         {
@@ -376,8 +376,8 @@
         "Tạo ảnh AI"
       ],
       "cover": "Mời-trà/Image_4twf9l4twf9l4twf.png",
-      "locked": false,
-      "unlockHash": null,
+      "locked": true,
+      "unlockHash": "917adf1964c2772112669d809de9655b97ab6fb11242f802489b9689436e5a5a",
       "images": [
         {
           "name": "Image_1iy5zx1iy5zx1iy5.png",
@@ -640,8 +640,8 @@
         "Tạo ảnh AI"
       ],
       "cover": "Áo-dài-xanh-bên-hồ/Image_kpxl33kpxl33kpxl.png",
-      "locked": true,
-      "unlockHash": "917adf1964c2772112669d809de9655b97ab6fb11242f802489b9689436e5a5a",
+      "locked": false,
+      "unlockHash": null,
       "images": [
         {
           "name": "Image_3qcyg33qcyg33qcy.png",
