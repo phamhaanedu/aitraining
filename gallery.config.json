@@ -1,5 +1,5 @@
 {
-    "projectName": "My Gallery",
+    "projectName": "AI Training",
     "browserIcon": "assets/gallery icon 32x32.png",
     "projectLogo": "assets/gallery icon 100x100.png",
     "defaultCategoryCover": "assets/default-category 200x200.png",
@@ -10,7 +10,7 @@
     "masterCode": "1",
     "layout": "masonry",
     "dictionary": "assets/dict-en.json",
-    "baseUrl": "https://phamhaanedu.github.io/mygallery/",
+    "baseUrl": "https://phamhaanedu.github.io/aitraining/",
     "navbar": [
         {
             "label": "Home",
