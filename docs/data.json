@@ -40,16 +40,20 @@
   },
   "tags": {
     "PhuongZuly": {
-      "count": 30,
+      "count": 41,
       "cover": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
     },
     "áo dài": {
-      "count": 30,
+      "count": 41,
       "cover": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
     },
     "tết": {
-      "count": 22,
+      "count": 28,
       "cover": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
+    },
+    "thư pháp": {
+      "count": 5,
+      "cover": "thumbnails/Tone-trầm-sang/Image_b5irt9b5irt9b5ir.png"
     }
   },
   "albums": [
@@ -258,8 +262,116 @@
       ]
     },
     {
+      "id": "Hồng-một-chút-xuân-cả-năm",
+      "title": "Hồng một chút xuân cả năm",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": "Hồng-một-chút-xuân-cả-năm/Image_b5irt9b5irt9b5ir.png",
+      "locked": true,
+      "unlockHash": "917adf1964c2772112669d809de9655b97ab6fb11242f802489b9689436e5a5a",
+      "images": [
+        {
+          "name": "Image_b5irt9b5irt9b5ir.png",
+          "srcA": "split/Hồng-một-chút-xuân-cả-năm/Image_b5irt9b5irt9b5ir_a.jpg",
+          "srcB": "split/Hồng-một-chút-xuân-cả-năm/Image_b5irt9b5irt9b5ir_b.jpg",
+          "thumb": "thumbnails/Hồng-một-chút-xuân-cả-năm/Image_b5irt9b5irt9b5ir.png",
+          "meta": {
+            "title": "Hồng một chút xuân cả năm",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài hồng chụp ảnh tết",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920,\nTrang điểm nhẹ nhàng tự nhiên, mỉm cười để lộ hàm răng, góc chụp nghiêng ba phần tư hướng về bên phải.</p>\n<p>Tóc ngắn nguyên bản như ảnh mẫu tải lên.</p>\n<p>Cô mặc áo dài truyền thống Việt Nam bằng lụa gấm màu hồng tím rực rỡ với độ bóng nhẹ, kết hợp với quần áo dài màu trắng.</p>\n<p>Một chiếc dây chuyền ngọc trai dài hai vòng buông xuống ngực.</p>\n<p>Cô cầm một cành hoa đào nhỏ trong tay trái: những cành nhỏ màu nâu với vài bông hoa màu hồng nhạt và những chồi lá xanh tươi.</p>\n<p>Cô đứng cạnh những bụi hoa đỏ rực rỡ trong những chậu đất nung lớn ở phía bên phải khung hình; một lối đi với nhiều chậu hoa khác phía sau cô.</p>\n<p>Phông nền được làm mờ mạnh với hiệu ứng bokeh mềm mại: những tòa nhà ở xa và những ngọn núi mờ sương dưới bầu trời u ám. Ánh sáng ban ngày tự nhiên dịu nhẹ, hiệu chỉnh màu sắc điện ảnh êm dịu, lấy nét sắc nét vào khuôn mặt và trang phục, độ sâu trường ảnh nông, nhiếp ảnh chuyên nghiệp, hiệu ứng ống kính 85mm, khẩu độ f/1.8, độ chi tiết cao, kết cấu da chân thực, không chỉnh sửa làm đẹp.</p>\n<p>Câu lệnh tóc khác thay thế:\nTóc búi thấp gọn gàng với vài sợi tóc mềm mại bay bồng bềnh, đeo khuyên tai nhỏ.</p>\n"
+          }
+        },
+        {
+          "name": "Image_gkqkt2gkqkt2gkqk.png",
+          "srcA": "split/Hồng-một-chút-xuân-cả-năm/Image_gkqkt2gkqkt2gkqk_a.jpg",
+          "srcB": "split/Hồng-một-chút-xuân-cả-năm/Image_gkqkt2gkqkt2gkqk_b.jpg",
+          "thumb": "thumbnails/Hồng-một-chút-xuân-cả-năm/Image_gkqkt2gkqkt2gkqk.png",
+          "meta": {
+            "title": "Hồng một chút xuân cả năm",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài hồng chụp ảnh tết",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920,\nTrang điểm nhẹ nhàng tự nhiên, mỉm cười để lộ hàm răng, góc chụp nghiêng ba phần tư hướng về bên phải.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.</p>\n<p>Trang phục: áo dài màu hồng cánh sen tươi sáng với họa tiết hoa jacquard tinh tế, tay áo rộng 3/4, xẻ tà cao để lộ quần lụa trắng ống rộng, giày trắng gót thấp.</p>\n<p>Phụ kiện: dây chuyền ngọc trai hai lớp, khuyên tai ngọc trai nhỏ, vòng tay ngọc trai.</p>\n<p>Trang điểm: trang điểm tự nhiên tươi tắn, làn da mịn màng chân thực, má hồng nhẹ, môi hồng san hô.</p>\n<p>Tư thế &amp; hành động: cô ấy đang mỉm cười rạng rỡ và nhìn hơi lên phía trên bên phải, bước đi duyên dáng; tay trái giơ cao cầm một bó cành cây dài, mảnh màu nâu với nhiều bông hoa/nụ trắng nhỏ li ti; tay phải nhẹ nhàng kéo vạt áo dài ra ngoài tạo chuyển động mềm mại của vải; chân bắt chéo nhẹ giữa bước đi.</p>\n<p>Địa điểm: vỉa hè đô thị cạnh một con phố; Một chiếc ghế công viên bằng gỗ ở phía trước bên trái; vỉa hè thấp và những cây xanh nhỏ phía sau; lối vào tòa nhà tối màu ở phía sau với một chi tiết nhỏ màu đỏ (ki-ốt/biển hiệu) được làm mờ nhẹ.</p>\n<p>Ánh sáng: ánh sáng ban ngày dịu nhẹ, trời nhiều mây, độ phơi sáng rõ nét, bóng đổ nhẹ nhàng, màu sắc tự nhiên.</p>\n<p>Máy ảnh &amp; phong cách: máy ảnh DSLR/mirrorless chuyên nghiệp, hiệu ứng ống kính 85mm, độ sâu trường ảnh nông, hiệu ứng bokeh mượt mà, chủ thể sắc nét, hậu cảnh được làm mờ mạnh, độ phân giải cao, nhiếp ảnh phong cách sống, màu sắc chân thực, không cách điệu, không chỉnh sửa da.</p>\n<p>(Hoạt hình, CGI, tranh vẽ, da quá mịn, trang điểm đậm, trang phục khác, áo dài màu khác, thêm ngón tay, bàn tay biến dạng, giải phẫu kém, chủ thể mờ, nhiễu, độ phân giải thấp, đèn flash mạnh, quá bão hòa, văn bản, hình mờ, logo.</p>\n<p>Lựa chọn tóc khác:\nTóc: rẽ ngôi lệch, mái bằng mềm mại ôm sát khuôn mặt, búi tóc một phần với phụ kiện cài tóc hình lông vũ/hoa màu nâu bên trái, tóc dài óng ả gợn sóng lớn buông xuống vai phải.</p>\n"
+          }
+        },
+        {
+          "name": "Image_is8u1iis8u1iis8u.png",
+          "srcA": "split/Hồng-một-chút-xuân-cả-năm/Image_is8u1iis8u1iis8u_a.jpg",
+          "srcB": "split/Hồng-một-chút-xuân-cả-năm/Image_is8u1iis8u1iis8u_b.jpg",
+          "thumb": "thumbnails/Hồng-một-chút-xuân-cả-năm/Image_is8u1iis8u1iis8u.png",
+          "meta": {
+            "title": "Hồng một chút xuân cả năm",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài hồng chụp ảnh tết",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920,\nTrang điểm nhẹ nhàng tự nhiên, mỉm cười để lộ hàm răng, góc chụp nghiêng ba phần tư hướng về bên phải.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.</p>\n<p>Trang phục: áo dài màu hồng cánh sen tươi sáng với họa tiết hoa jacquard tinh tế, tay áo rộng 3/4, xẻ tà cao để lộ quần lụa trắng ống rộng, giày trắng gót thấp.</p>\n<p>Phụ kiện: dây chuyền ngọc trai hai lớp, khuyên tai ngọc trai nhỏ, vòng tay ngọc trai.</p>\n<p>Trang điểm: trang điểm tự nhiên tươi tắn, làn da mịn màng chân thực, má hồng nhẹ, môi hồng san hô.</p>\n<p>Tư thế &amp; hành động: cô ấy đang mỉm cười rạng rỡ và nhìn hơi lên phía trên bên phải, bước đi duyên dáng; tay trái giơ cao cầm một bó cành cây dài, mảnh màu nâu với nhiều bông hoa/nụ trắng nhỏ li ti; tay phải nhẹ nhàng kéo vạt áo dài ra ngoài tạo chuyển động mềm mại của vải; chân bắt chéo nhẹ giữa bước đi.</p>\n<p>Địa điểm: vỉa hè đô thị cạnh một con phố; Một chiếc ghế công viên bằng gỗ ở phía trước bên trái; vỉa hè thấp và những cây xanh nhỏ phía sau; lối vào tòa nhà tối màu ở phía sau với một chi tiết nhỏ màu đỏ (ki-ốt/biển hiệu) được làm mờ nhẹ.</p>\n<p>Ánh sáng: ánh sáng ban ngày dịu nhẹ, trời nhiều mây, độ phơi sáng rõ nét, bóng đổ nhẹ nhàng, màu sắc tự nhiên.</p>\n<p>Máy ảnh &amp; phong cách: máy ảnh DSLR/mirrorless chuyên nghiệp, hiệu ứng ống kính 85mm, độ sâu trường ảnh nông, hiệu ứng bokeh mượt mà, chủ thể sắc nét, hậu cảnh được làm mờ mạnh, độ phân giải cao, nhiếp ảnh phong cách sống, màu sắc chân thực, không cách điệu, không chỉnh sửa da.</p>\n<p>(Hoạt hình, CGI, tranh vẽ, da quá mịn, trang điểm đậm, trang phục khác, áo dài màu khác, thêm ngón tay, bàn tay biến dạng, giải phẫu kém, chủ thể mờ, nhiễu, độ phân giải thấp, đèn flash mạnh, quá bão hòa, văn bản, hình mờ, logo.</p>\n<p>Lựa chọn tóc khác:\nTóc: rẽ ngôi lệch, mái bằng mềm mại ôm sát khuôn mặt, búi tóc một phần với phụ kiện cài tóc hình lông vũ/hoa màu nâu bên trái, tóc dài óng ả gợn sóng lớn buông xuống vai phải.</p>\n"
+          }
+        },
+        {
+          "name": "Image_q9acufq9acufq9ac.png",
+          "srcA": "split/Hồng-một-chút-xuân-cả-năm/Image_q9acufq9acufq9ac_a.jpg",
+          "srcB": "split/Hồng-một-chút-xuân-cả-năm/Image_q9acufq9acufq9ac_b.jpg",
+          "thumb": "thumbnails/Hồng-một-chút-xuân-cả-năm/Image_q9acufq9acufq9ac.png",
+          "meta": {
+            "title": "Hồng một chút xuân cả năm",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài hồng chụp ảnh tết",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920,\nTrang điểm nhẹ nhàng tự nhiên, mỉm cười để lộ hàm răng, góc chụp nghiêng ba phần tư hướng về bên phải.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.</p>\n<p>Cô mặc áo dài truyền thống Việt Nam bằng lụa gấm màu hồng tím rực rỡ với độ bóng nhẹ, kết hợp với quần áo dài màu trắng.</p>\n<p>Một chiếc dây chuyền ngọc trai dài hai vòng buông xuống ngực.</p>\n<p>Cô cầm một cành hoa đào nhỏ trong tay trái: những cành nhỏ màu nâu với vài bông hoa màu hồng nhạt và những chồi lá xanh tươi.</p>\n<p>Cô đứng cạnh những bụi hoa đỏ rực rỡ trong những chậu đất nung lớn ở phía bên phải khung hình; một lối đi với nhiều chậu hoa khác phía sau cô.</p>\n<p>Phông nền được làm mờ mạnh với hiệu ứng bokeh mềm mại: những tòa nhà ở xa và những ngọn núi mờ sương dưới bầu trời u ám. Ánh sáng ban ngày tự nhiên dịu nhẹ, hiệu chỉnh màu sắc điện ảnh êm dịu, lấy nét sắc nét vào khuôn mặt và trang phục, độ sâu trường ảnh nông, nhiếp ảnh chuyên nghiệp, hiệu ứng ống kính 85mm, khẩu độ f/1.8, độ chi tiết cao, kết cấu da chân thực, không chỉnh sửa làm đẹp.</p>\n"
+          }
+        },
+        {
+          "name": "Image_qela6oqela6oqela.png",
+          "srcA": "split/Hồng-một-chút-xuân-cả-năm/Image_qela6oqela6oqela_a.jpg",
+          "srcB": "split/Hồng-một-chút-xuân-cả-năm/Image_qela6oqela6oqela_b.jpg",
+          "thumb": "thumbnails/Hồng-một-chút-xuân-cả-năm/Image_qela6oqela6oqela.png",
+          "meta": {
+            "title": "Hồng một chút xuân cả năm",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài hồng chụp ảnh tết",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920,\nTrang điểm nhẹ nhàng tự nhiên, mỉm cười để lộ hàm răng, góc chụp nghiêng ba phần tư hướng về bên phải.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.</p>\n<p>Cô mặc áo dài truyền thống Việt Nam bằng lụa gấm màu hồng tím rực rỡ với độ bóng nhẹ, kết hợp với quần áo dài màu trắng.</p>\n<p>Một chiếc dây chuyền ngọc trai dài hai vòng buông xuống ngực.</p>\n<p>Cô cầm một cành hoa đào nhỏ trong tay trái: những cành nhỏ màu nâu với vài bông hoa màu hồng nhạt và những chồi lá xanh tươi.</p>\n<p>Cô đứng cạnh những bụi hoa đỏ rực rỡ trong những chậu đất nung lớn ở phía bên phải khung hình; một lối đi với nhiều chậu hoa khác phía sau cô.</p>\n<p>Phông nền được làm mờ mạnh với hiệu ứng bokeh mềm mại: những tòa nhà ở xa và những ngọn núi mờ sương dưới bầu trời u ám. Ánh sáng ban ngày tự nhiên dịu nhẹ, hiệu chỉnh màu sắc điện ảnh êm dịu, lấy nét sắc nét vào khuôn mặt và trang phục, độ sâu trường ảnh nông, nhiếp ảnh chuyên nghiệp, hiệu ứng ống kính 85mm, khẩu độ f/1.8, độ chi tiết cao, kết cấu da chân thực, không chỉnh sửa làm đẹp.</p>\n"
+          }
+        },
+        {
+          "name": "Image_u4ajc5u4ajc5u4aj.png",
+          "srcA": "split/Hồng-một-chút-xuân-cả-năm/Image_u4ajc5u4ajc5u4aj_a.jpg",
+          "srcB": "split/Hồng-một-chút-xuân-cả-năm/Image_u4ajc5u4ajc5u4aj_b.jpg",
+          "thumb": "thumbnails/Hồng-một-chút-xuân-cả-năm/Image_u4ajc5u4ajc5u4aj.png",
+          "meta": {
+            "title": "Hồng một chút xuân cả năm",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "tết"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài hồng chụp ảnh tết",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920,\nTrang điểm nhẹ nhàng tự nhiên, mỉm cười để lộ hàm răng, góc chụp nghiêng ba phần tư hướng về bên phải.</p>\n<p>Tóc ngắn nguyên bản như ảnh mẫu tải lên.</p>\n<p>Trang phục: mặc áo dài truyền thống màu hồng cánh sen tươi tắn, chất liệu vải jacquard cao cấp với họa tiết hoa tinh tế, tay lỡ, xẻ tà cao để lộ quần lụa trắng.</p>\n<p>Phụ kiện: dây chuyền ngọc trai dài hai vòng, khuyên tai ngọc trai nhỏ.</p>\n<p>Trang điểm: phong cách làm đẹp tự nhiên của Việt Nam, làn da mịn màng, má hồng nhẹ nhàng, môi hồng san hô, đôi mắt dịu dàng.</p>\n<p>Tư thế &amp; biểu cảm: ngồi duyên dáng ở góc ba phần tư, mỉm cười ấm áp với máy ảnh, để lộ hàm răng; hai tay nhẹ nhàng cầm chiếc quạt gỗ xếp gọn đặt trên đùi; dáng vẻ thanh lịch và khiêm tốn.</p>\n<p>Bối cảnh studio: phông nền trang trí Tết truyền thống Việt Nam với những bó chổi rơm được sắp xếp đối xứng, phông nền đỏ ấm áp, cành Tết treo phía trên được trang trí bằng ruy băng đỏ, đồ trang trí nhỏ, bùa may mắn và các yếu tố lễ hội. Ánh sáng: Ánh sáng studio dịu nhẹ, tông màu ấm áp, chiếu sáng đều, không có bóng đổ gắt.</p>\n<p>Phong cách chụp ảnh: Chụp ảnh chân dung chuyên nghiệp trong studio, độ sâu trường ảnh nông, chủ thể sắc nét, chi tiết kết cấu phong phú, mang hơi hướng điện ảnh nhưng vẫn tự nhiên, độ phân giải cao, siêu thực, không chỉnh sửa.</p>\n<p>Nếu tóc dài:\nTóc: tóc rẽ ngôi lệch, búi thấp gọn gàng, cài trâm truyền thống Việt Nam (bằng gỗ hoặc kim loại), sạch sẽ và thanh lịch.</p>\n"
+          }
+        }
+      ]
+    },
+    {
       "id": "Mời-trà",
-      "title": "Mời trà",
+      "title": "Tone trầm sang",
       "categories": [
         "Tạo ảnh AI"
       ],
@@ -425,6 +537,98 @@
             ],
             "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
             "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ.\nTrang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. Phụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin.\nThần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. Ánh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”.\nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Tone-trầm-sang",
+      "title": "Mời trà",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": "Tone-trầm-sang/Image_b5irt9b5irt9b5ir.png",
+      "locked": true,
+      "unlockHash": null,
+      "images": [
+        {
+          "name": "Image_b5irt9b5irt9b5ir.png",
+          "srcA": "split/Tone-trầm-sang/Image_b5irt9b5irt9b5ir_a.jpg",
+          "srcB": "split/Tone-trầm-sang/Image_b5irt9b5irt9b5ir_b.jpg",
+          "thumb": "thumbnails/Tone-trầm-sang/Image_b5irt9b5irt9b5ir.png",
+          "meta": {
+            "title": "Tone trầm sang",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "thư pháp"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài viết thư pháp",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920, concept cổ điển điện ảnh: set phong vị Á Đông với nền giấy thư pháp loang mực, cụm lá sen bản to và hoa sen hồng bao quanh, có tảng đá xám tạo chiều sâu; sàn phủ vải họa tiết đen trắng như phim trường dàn dựng tinh tế\nTrang phục đúng kiểu áo dài Việt cổ cao tay rộng layer xuyên thấu: áo dài nhiều lớp chồng lên nhau, mỗi lớp là chất organza mỏng trong, bắt sáng nhẹ và tạo hiệu ứng “lụa sương” khi chồng màu; lớp ngoài tím khói ánh hồng, lớp giữa xanh ngọc nhạt mát, lớp trong hồng đậm/đỏ hồng làm lõi màu, tổng thể nhìn thấy từng tầng chuyển sắc rõ ràng; tà áo dài rơi mềm, dài và bay, tay áo dài mỏng trong có đường viền tinh tế; quần lụa/sa-tanh cùng tông (hồng hoặc xanh nhạt) để tăng cảm giác layer, sang và nhẹ. Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu — đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nMakeup hồng đào điện ảnh: nền mịn, bắt sáng vừa ở gò má/sống mũi, má phớt; mắt hồng nude, eyeliner mảnh kéo nhẹ, mi tách sợi; môi hồng đất satin vừa, không rực.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.\nBố cục &amp; đạo cụ: ngồi sát bàn gỗ thấp nâu sẫm, có bộ ấm chén/gốm nhỏ; một tay nâng giấy vàng ngà, tay kia cầm bút như đang viết; dải giấy thư pháp dài rủ xuống làm leading line; chủ thể lệch trái, sen tạo khung, lớp không gian rõ (giấy tiền cảnh – chủ thể+bàn – thư pháp+sen hậu cảnh).\nDáng pose tĩnh thơ: ngồi nghiêng, thân hơi tựa bàn, khuỷu tay đặt nhẹ; cổ nghiêng theo hướng nhìn xuống trang, chuyển động chậm.\nÁnh sáng cinematic mềm: key light khuếch tán từ trái trước, fill nhẹ, rim mỏng ở vai/tóc; bóng dịu giữ độ trong của vải.\nMáy &amp; hậu kỳ: 50/85mm, f/1.8–2.2, DOF nông vừa; góc ngang tầm mắt hơi thấp; palette tím khói–xanh ngọc–hồng sen–nâu gỗ, film warm nhẹ, giảm bão hòa, grain mịn, tương phản vừa, không sharpen.</p>\n"
+          }
+        },
+        {
+          "name": "Image_hfawxkhfawxkhfaw.png",
+          "srcA": "split/Tone-trầm-sang/Image_hfawxkhfawxkhfaw_a.jpg",
+          "srcB": "split/Tone-trầm-sang/Image_hfawxkhfawxkhfaw_b.jpg",
+          "thumb": "thumbnails/Tone-trầm-sang/Image_hfawxkhfawxkhfaw.png",
+          "meta": {
+            "title": "Tone trầm sang",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "thư pháp"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài viết thư pháp",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920, concept cổ điển điện ảnh: set phong vị Á Đông với nền giấy thư pháp loang mực, cụm lá sen bản to và hoa sen hồng bao quanh, có tảng đá xám tạo chiều sâu; sàn phủ vải họa tiết đen trắng như phim trường dàn dựng tinh tế\nTrang phục đúng kiểu áo dài Việt cổ cao tay rộng layer xuyên thấu: áo dài nhiều lớp chồng lên nhau, mỗi lớp là chất organza mỏng trong, bắt sáng nhẹ và tạo hiệu ứng “lụa sương” khi chồng màu; lớp ngoài tím khói ánh hồng, lớp giữa xanh ngọc nhạt mát, lớp trong hồng đậm/đỏ hồng làm lõi màu, tổng thể nhìn thấy từng tầng chuyển sắc rõ ràng; tà áo dài rơi mềm, dài và bay, tay áo dài mỏng trong có đường viền tinh tế; quần lụa/sa-tanh cùng tông (hồng hoặc xanh nhạt) để tăng cảm giác layer, sang và nhẹ. Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu — đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nMakeup hồng đào điện ảnh: nền mịn, bắt sáng vừa ở gò má/sống mũi, má phớt; mắt hồng nude, eyeliner mảnh kéo nhẹ, mi tách sợi; môi hồng đất satin vừa, không rực.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.\nBố cục &amp; đạo cụ: ngồi sát bàn gỗ thấp nâu sẫm, có bộ ấm chén/gốm nhỏ; một tay nâng giấy vàng ngà, tay kia cầm bút như đang viết; dải giấy thư pháp dài rủ xuống làm leading line; chủ thể lệch trái, sen tạo khung, lớp không gian rõ (giấy tiền cảnh – chủ thể+bàn – thư pháp+sen hậu cảnh).\nDáng pose tĩnh thơ: ngồi nghiêng, thân hơi tựa bàn, khuỷu tay đặt nhẹ; cổ nghiêng theo hướng nhìn xuống trang, chuyển động chậm.\nÁnh sáng cinematic mềm: key light khuếch tán từ trái trước, fill nhẹ, rim mỏng ở vai/tóc; bóng dịu giữ độ trong của vải.\nMáy &amp; hậu kỳ: 50/85mm, f/1.8–2.2, DOF nông vừa; góc ngang tầm mắt hơi thấp; palette tím khói–xanh ngọc–hồng sen–nâu gỗ, film warm nhẹ, giảm bão hòa, grain mịn, tương phản vừa, không sharpen.</p>\n<p>Câu lệnh tóc khác thay thế:\nTóc búi thấp mềm hơi rối, thả vài lọn mảnh; nếu có mái thì giữ nguyên; phụ kiện nhỏ đá sáng tối giản.</p>\n"
+          }
+        },
+        {
+          "name": "Image_llgt8rllgt8rllgt.png",
+          "srcA": "split/Tone-trầm-sang/Image_llgt8rllgt8rllgt_a.jpg",
+          "srcB": "split/Tone-trầm-sang/Image_llgt8rllgt8rllgt_b.jpg",
+          "thumb": "thumbnails/Tone-trầm-sang/Image_llgt8rllgt8rllgt.png",
+          "meta": {
+            "title": "Tone trầm sang",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "thư pháp"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài viết thư pháp",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920, concept cổ điển điện ảnh: set phong vị Á Đông với nền giấy thư pháp loang mực, cụm lá sen bản to và hoa sen hồng bao quanh, có tảng đá xám tạo chiều sâu; sàn phủ vải họa tiết đen trắng như phim trường dàn dựng tinh tế\nTrang phục đúng kiểu áo dài Việt cổ cao tay rộng layer xuyên thấu: áo dài nhiều lớp chồng lên nhau, mỗi lớp là chất organza mỏng trong, bắt sáng nhẹ và tạo hiệu ứng “lụa sương” khi chồng màu; lớp ngoài tím khói ánh hồng, lớp giữa xanh ngọc nhạt mát, lớp trong hồng đậm/đỏ hồng làm lõi màu, tổng thể nhìn thấy từng tầng chuyển sắc rõ ràng; tà áo dài rơi mềm, dài và bay, tay áo dài mỏng trong có đường viền tinh tế; quần lụa/sa-tanh cùng tông (hồng hoặc xanh nhạt) để tăng cảm giác layer, sang và nhẹ. Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu — đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nMakeup hồng đào điện ảnh: nền mịn, bắt sáng vừa ở gò má/sống mũi, má phớt; mắt hồng nude, eyeliner mảnh kéo nhẹ, mi tách sợi; môi hồng đất satin vừa, không rực.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.\nBố cục &amp; đạo cụ: ngồi sát bàn gỗ thấp nâu sẫm, có bộ ấm chén/gốm nhỏ; một tay nâng giấy vàng ngà, tay kia cầm bút như đang viết; dải giấy thư pháp dài rủ xuống làm leading line; chủ thể lệch trái, sen tạo khung, lớp không gian rõ (giấy tiền cảnh – chủ thể+bàn – thư pháp+sen hậu cảnh).\nDáng pose tĩnh thơ: ngồi nghiêng, thân hơi tựa bàn, khuỷu tay đặt nhẹ; cổ nghiêng theo hướng nhìn xuống trang, chuyển động chậm.\nÁnh sáng cinematic mềm: key light khuếch tán từ trái trước, fill nhẹ, rim mỏng ở vai/tóc; bóng dịu giữ độ trong của vải.\nMáy &amp; hậu kỳ: 50/85mm, f/1.8–2.2, DOF nông vừa; góc ngang tầm mắt hơi thấp; palette tím khói–xanh ngọc–hồng sen–nâu gỗ, film warm nhẹ, giảm bão hòa, grain mịn, tương phản vừa, không sharpen.</p>\n<p>Câu lệnh tóc khác thay thế:\nTóc búi thấp mềm hơi rối, thả vài lọn mảnh; nếu có mái thì giữ nguyên; phụ kiện nhỏ đá sáng tối giản.</p>\n"
+          }
+        },
+        {
+          "name": "Image_qxy57iqxy57iqxy5.png",
+          "srcA": "split/Tone-trầm-sang/Image_qxy57iqxy57iqxy5_a.jpg",
+          "srcB": "split/Tone-trầm-sang/Image_qxy57iqxy57iqxy5_b.jpg",
+          "thumb": "thumbnails/Tone-trầm-sang/Image_qxy57iqxy57iqxy5.png",
+          "meta": {
+            "title": "Tone trầm sang",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "thư pháp"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài viết thư pháp",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920, concept cổ điển điện ảnh: set phong vị Á Đông với nền giấy thư pháp loang mực, cụm lá sen bản to và hoa sen hồng bao quanh, có tảng đá xám tạo chiều sâu; sàn phủ vải họa tiết đen trắng như phim trường dàn dựng tinh tế\nTrang phục đúng kiểu áo dài Việt cổ cao tay rộng layer xuyên thấu: áo dài nhiều lớp chồng lên nhau, mỗi lớp là chất organza mỏng trong, bắt sáng nhẹ và tạo hiệu ứng “lụa sương” khi chồng màu; lớp ngoài tím khói ánh hồng, lớp giữa xanh ngọc nhạt mát, lớp trong hồng đậm/đỏ hồng làm lõi màu, tổng thể nhìn thấy từng tầng chuyển sắc rõ ràng; tà áo dài rơi mềm, dài và bay, tay áo dài mỏng trong có đường viền tinh tế; quần lụa/sa-tanh cùng tông (hồng hoặc xanh nhạt) để tăng cảm giác layer, sang và nhẹ. Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu — đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nMakeup hồng đào điện ảnh: nền mịn, bắt sáng vừa ở gò má/sống mũi, má phớt; mắt hồng nude, eyeliner mảnh kéo nhẹ, mi tách sợi; môi hồng đất satin vừa, không rực.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.\nBố cục &amp; đạo cụ: ngồi sát bàn gỗ thấp nâu sẫm, có bộ ấm chén/gốm nhỏ; một tay nâng giấy vàng ngà, tay kia cầm bút như đang viết; dải giấy thư pháp dài rủ xuống làm leading line; chủ thể lệch trái, sen tạo khung, lớp không gian rõ (giấy tiền cảnh – chủ thể+bàn – thư pháp+sen hậu cảnh).\nDáng pose tĩnh thơ: ngồi nghiêng, thân hơi tựa bàn, khuỷu tay đặt nhẹ; cổ nghiêng theo hướng nhìn xuống trang, chuyển động chậm.\nÁnh sáng cinematic mềm: key light khuếch tán từ trái trước, fill nhẹ, rim mỏng ở vai/tóc; bóng dịu giữ độ trong của vải.\nMáy &amp; hậu kỳ: 50/85mm, f/1.8–2.2, DOF nông vừa; góc ngang tầm mắt hơi thấp; palette tím khói–xanh ngọc–hồng sen–nâu gỗ, film warm nhẹ, giảm bão hòa, grain mịn, tương phản vừa, không sharpen.</p>\n"
+          }
+        },
+        {
+          "name": "Image_xs2bcjxs2bcjxs2b.png",
+          "srcA": "split/Tone-trầm-sang/Image_xs2bcjxs2bcjxs2b_a.jpg",
+          "srcB": "split/Tone-trầm-sang/Image_xs2bcjxs2bcjxs2b_b.jpg",
+          "thumb": "thumbnails/Tone-trầm-sang/Image_xs2bcjxs2bcjxs2b.png",
+          "meta": {
+            "title": "Tone trầm sang",
+            "tags": [
+              "PhuongZuly",
+              "áo dài",
+              "thư pháp"
+            ],
+            "description": "Ảnh thiếu nữ trong trang phục áo dài viết thư pháp",
+            "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920, concept cổ điển điện ảnh: set phong vị Á Đông với nền giấy thư pháp loang mực, cụm lá sen bản to và hoa sen hồng bao quanh, có tảng đá xám tạo chiều sâu; sàn phủ vải họa tiết đen trắng như phim trường dàn dựng tinh tế\nTrang phục đúng kiểu áo dài Việt cổ cao tay rộng layer xuyên thấu: áo dài nhiều lớp chồng lên nhau, mỗi lớp là chất organza mỏng trong, bắt sáng nhẹ và tạo hiệu ứng “lụa sương” khi chồng màu; lớp ngoài tím khói ánh hồng, lớp giữa xanh ngọc nhạt mát, lớp trong hồng đậm/đỏ hồng làm lõi màu, tổng thể nhìn thấy từng tầng chuyển sắc rõ ràng; tà áo dài rơi mềm, dài và bay, tay áo dài mỏng trong có đường viền tinh tế; quần lụa/sa-tanh cùng tông (hồng hoặc xanh nhạt) để tăng cảm giác layer, sang và nhẹ. Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu — đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nMakeup hồng đào điện ảnh: nền mịn, bắt sáng vừa ở gò má/sống mũi, má phớt; mắt hồng nude, eyeliner mảnh kéo nhẹ, mi tách sợi; môi hồng đất satin vừa, không rực.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.\nBố cục &amp; đạo cụ: ngồi sát bàn gỗ thấp nâu sẫm, có bộ ấm chén/gốm nhỏ; một tay nâng giấy vàng ngà, tay kia cầm bút như đang viết; dải giấy thư pháp dài rủ xuống làm leading line; chủ thể lệch trái, sen tạo khung, lớp không gian rõ (giấy tiền cảnh – chủ thể+bàn – thư pháp+sen hậu cảnh).\nDáng pose tĩnh thơ: ngồi nghiêng, thân hơi tựa bàn, khuỷu tay đặt nhẹ; cổ nghiêng theo hướng nhìn xuống trang, chuyển động chậm.\nÁnh sáng cinematic mềm: key light khuếch tán từ trái trước, fill nhẹ, rim mỏng ở vai/tóc; bóng dịu giữ độ trong của vải.\nMáy &amp; hậu kỳ: 50/85mm, f/1.8–2.2, DOF nông vừa; góc ngang tầm mắt hơi thấp; palette tím khói–xanh ngọc–hồng sen–nâu gỗ, film warm nhẹ, giảm bão hòa, grain mịn, tương phản vừa, không sharpen.</p>\n<p>Câu lệnh tóc khác thay thế:\nTóc búi thấp mềm hơi rối, thả vài lọn mảnh; nếu có mái thì giữ nguyên; phụ kiện nhỏ đá sáng tối giản.</p>\n"
           }
         }
       ]
