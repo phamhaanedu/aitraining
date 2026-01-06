@@ -52,15 +52,38 @@
       "cover": "thumbnails/Chào-xuân/Image_1iy5zx1iy5zx1iy5.png"
     },
     "ảnh AI": {
-      "count": 8,
-      "cover": "thumbnails/Random-promt/random promt (1).jpg"
+      "count": 9,
+      "cover": "thumbnails/Dạo-chơi-xì-tin/Image_1nl8d61nl8d61nl8.png"
     },
     "thư pháp": {
       "count": 5,
       "cover": "thumbnails/Tone-trầm-sang/Image_b5irt9b5irt9b5ir.png"
+    },
+    "bính ngọ": {
+      "count": 8,
+      "cover": "thumbnails/Tạm-biệt-2025-chào-2026/goodbye-2025-2.jpg"
+    },
+    "new year": {
+      "count": 8,
+      "cover": "thumbnails/Tạm-biệt-2025-chào-2026/goodbye-2025-2.jpg"
+    },
+    "couple": {
+      "count": 7,
+      "cover": "thumbnails/Tạm-biệt-2025-chào-2026/goodbye-2025.jpg"
     }
   },
   "albums": [
+    {
+      "id": "Bikini z",
+      "title": "Bikini",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": null,
+      "locked": true,
+      "unlockHash": "cd2eb0837c9b4c962c22d2ff8b5441b7b45805887f051d39bf133b583baf6860",
+      "images": []
+    },
     {
       "id": "Chào-xuân",
       "title": "Chào xuân",
@@ -266,6 +289,32 @@
       ]
     },
     {
+      "id": "Dạo-chơi-xì-tin",
+      "title": "Dạo chơi xì tin",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": "Dạo-chơi-xì-tin/Image_1nl8d61nl8d61nl8.png",
+      "locked": true,
+      "unlockHash": "cd2eb0837c9b4c962c22d2ff8b5441b7b45805887f051d39bf133b583baf6860",
+      "images": [
+        {
+          "name": "Image_1nl8d61nl8d61nl8.png",
+          "srcA": "split/Dạo-chơi-xì-tin/Image_1nl8d61nl8d61nl8_a.jpg",
+          "srcB": "split/Dạo-chơi-xì-tin/Image_1nl8d61nl8d61nl8_b.jpg",
+          "thumb": "thumbnails/Dạo-chơi-xì-tin/Image_1nl8d61nl8d61nl8.png",
+          "meta": {
+            "title": "Bikini",
+            "tags": [
+              "ảnh AI"
+            ],
+            "description": "Sexy lộng lẫy bên bể bơi với trang phục bikini nóng bỏng",
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên, đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính, không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.</p>\n<p>Cô gái xinh xắn đứng trước hàng rào gỗ màu xanh, phía sau là những tán cây hoa trắng nở rộ, tạo khung cảnh mùa xuân nhẹ nhàng và lãng mạn.</p>\n<p>Cô mặc một chiếc váy ngắn màu xanh lá cây nhạt, chất liệu voan mỏng và mềm mại, thiết kế nữ tính với cổ áo kín, tay dài hơi phồng, phần eo thắt nơ lớn tạo điểm nhấn, chân váy xếp tầng bồng bềnh.</p>\n<p>Cô đeo một chiếc túi nhỏ màu xanh lá cùng tông, dây đeo mảnh vắt chéo qua vai, phong cách dễ thương và thanh lịch.</p>\n<p>Cô cài một bông hoa trắng nhỏ bên tai, tạo vẻ ngây thơ và trong trẻo.</p>\n<p>Cô tạo dáng dang hai tay tựa hàng rào, nhấc nhẹ 1 chân, khuôn mặt nghiêng nhẹ, ánh mắt dịu dàng nhìn vào ống kính, mỉm cười ngọt ngào. Làn da trắng mịn, gương mặt thanh tú, trang điểm tự nhiên với son hồng nhạt và má phớt nhẹ.</p>\n<p>Ánh sáng tự nhiên ban ngày dịu nhẹ, không khí mùa xuân trong lành. Hậu cảnh mờ nhẹ với hiệu ứng bokeh mềm, làm nổi bật nhân vật chính.</p>\n<p>Phong cách chụp ảnh chân dung thời trang ngoài trời, bảng màu pastel xanh – trắng, chi tiết cao, siêu chân thực, ánh sáng mềm, ống kính 85mm, khẩu độ f/1.8, độ phân giải cao, không khí trẻ trung, dễ thương và lãng mạn.</p>\n<p>=== Prompt gốc ===\nCô gái xinh xắn đứng trước hàng rào gỗ màu xanh, phía sau là những tán cây hoa trắng nở rộ, tạo khung cảnh mùa xuân nhẹ nhàng và lãng mạn.\nCô mặc một chiếc váy ngắn màu xanh lá cây nhạt, chất liệu voan mỏng và mềm mại, thiết kế nữ tính với cổ áo kín, tay dài hơi phồng, phần eo thắt nơ lớn tạo điểm nhấn, chân váy xếp tầng bồng bềnh.\nCô đeo một chiếc túi nhỏ màu xanh lá cùng tông, dây đeo mảnh vắt chéo qua vai, phong cách dễ thương và thanh lịch.\nMái tóc dài màu nâu đỏ được buộc cao đuôi ngựa, uốn sóng nhẹ, cột bằng nơ xanh đồng màu với trang phục. Cô cài một bông hoa trắng nhỏ bên tai, tạo vẻ ngây thơ và trong trẻo.\nCô tạo dáng dang hai tay tựa hàng rào, nhấc nhẹ 1 chân, khuôn mặt nghiêng nhẹ, ánh mắt dịu dàng nhìn vào ống kính, mỉm cười ngọt ngào. Làn da trắng mịn, gương mặt thanh tú, trang điểm tự nhiên với son hồng nhạt và má phớt nhẹ.\nÁnh sáng tự nhiên ban ngày dịu nhẹ, không khí mùa xuân trong lành. Hậu cảnh mờ nhẹ với hiệu ứng bokeh mềm, làm nổi bật nhân vật chính.\nPhong cách chụp ảnh chân dung thời trang ngoài trời, bảng màu pastel xanh – trắng, chi tiết cao, siêu chân thực, ánh sáng mềm, ống kính 85mm, khẩu độ f/1.8, độ phân giải cao, không khí trẻ trung, dễ thương và lãng mạn.</p>\n"
+          }
+        }
+      ]
+    },
+    {
       "id": "Hồng-một-chút-xuân-cả-năm",
       "title": "Hồng một chút xuân cả năm",
       "categories": [
@@ -374,7 +423,7 @@
       ]
     },
     {
-      "id": "Mai–nơi-nắng-dừng-chân",
+      "id": "Mai–nơi-nắng-dừng-chân z",
       "title": "Mai – nơi nắng dừng chân",
       "categories": [
         "Tạo ảnh AI"
@@ -407,7 +456,7 @@
               "tết"
             ],
             "description": "Ảnh thiếu nữ trong trang phục áo dài đỏ ngày tết",
-            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên - đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính.  - không thay đổi bất kỳ đặc điểm nào trên khuôn mặt. \nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ.\nTrang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. Phụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin.\nThần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. Ánh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”.\nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
+            "content": "<p>Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái từ ảnh gốc đã tải lên, đúng ánh sáng, tông da trắng hồng và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa. Giữ nguyên tóc ngắn theo ảnh tham chiếu, giữ nguyên tóc mái, đeo kính, không thay đổi bất kỳ đặc điểm nào trên khuôn mặt.\nBối cảnh &amp; bố cục Khung dọc cổ điển–điện ảnh trong nhà tông terracotta ấm, phông treo họa tiết dân gian, ánh đèn trần gợi Tết xưa. Chủ thể trên sập gỗ tối; mặt sập bày mâm Tết đầy (bánh chưng, dưa hành, mứt, quýt, ấm chén trà, đĩa/khay gốm sứ). Đạo cụ xếp lớp tiền cảnh, bố cục cân tự nhiên; nền sau mờ nhẹ.\nTrang phục &amp; phụ kiện Áo dài lụa truyền thống 2 tà rõ, dáng dài, cổ cao, tay dài rộng; tông đỏ . Tà trước thả xuôi ôm dọc theo chân tạo dải lụa liền mạch, hai tà tách rất nhẹ ở biên/gấu để đúng form mà vẫn kín. Phụ kiện Tết cổ: vòng ngọc trai hạt to, chuỗi dài layer nhiều lớp, khuyên tai nhỏ. Makeup &amp; thần thái Makeup ấm điện ảnh: nền mỏng semi-matte/satin, contour rất nhẹ, má đào cao, mắt nâu đồng/bronze, eyeliner mảnh, mi tơi, highlight cực mỏng; son đỏ gạch/đỏ cam satin.\nThần thái tĩnh sang editorial; tóc bồng vừa, lọn tơi gọn. Ánh sáng &amp; tông màu Key light trung tính hơi cao chếch, shadow mềm; fill trung tính giữ chi tiết mâm Tết; rim mỏng tách tóc/vai. WB neutral sạch tông; quýt cam tươi, bánh chưng xanh rõ, men sứ xanh lam sạch. Hậu kỳ clarity + micro-contrast nhẹ, hạn chế bloom, giảm vàng/cam nhẹ để “ấm nhưng trong”.\nPose &amp; framing Ngồi sát mép sập, quay lưng 2/3 về camera; một chân thả xuống sàn (hé rất ít), chân còn lại gập trên sập; đầu quay lại nhìn camera qua vai. Một tay kia nâng chén trà, tà trước vuốt xuôi theo chân gập và rủ xuống mép sập, không xòe. Khung gần full body, mâm Tết ở lớp trước, chủ thể lớp giữa, phông mờ phía sau. Ống kính &amp; hậu kỳ 35–50mm, f/2.8–f/4, DOF vừa; nét ưu tiên chủ thể nhưng vẫn rõ tà áo, vòng ngọc trai và đồ Tết. Sharpen texture vải/gỗ/gốm, giảm noise nhẹ, grain cực mỏng.</p>\n"
           }
         },
         {
@@ -681,6 +730,17 @@
       ]
     },
     {
+      "id": "tmp",
+      "title": "tmp",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": null,
+      "locked": true,
+      "unlockHash": "cd2eb0837c9b4c962c22d2ff8b5441b7b45805887f051d39bf133b583baf6860",
+      "images": []
+    },
+    {
       "id": "Tone-trầm-sang",
       "title": "Mời trà",
       "categories": [
@@ -768,6 +828,145 @@
             ],
             "description": "Ảnh thiếu nữ trong trang phục áo dài viết thư pháp",
             "content": "<p>Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nKhung hình dọc 1080x1920, concept cổ điển điện ảnh: set phong vị Á Đông với nền giấy thư pháp loang mực, cụm lá sen bản to và hoa sen hồng bao quanh, có tảng đá xám tạo chiều sâu; sàn phủ vải họa tiết đen trắng như phim trường dàn dựng tinh tế\nTrang phục đúng kiểu áo dài Việt cổ cao tay rộng layer xuyên thấu: áo dài nhiều lớp chồng lên nhau, mỗi lớp là chất organza mỏng trong, bắt sáng nhẹ và tạo hiệu ứng “lụa sương” khi chồng màu; lớp ngoài tím khói ánh hồng, lớp giữa xanh ngọc nhạt mát, lớp trong hồng đậm/đỏ hồng làm lõi màu, tổng thể nhìn thấy từng tầng chuyển sắc rõ ràng; tà áo dài rơi mềm, dài và bay, tay áo dài mỏng trong có đường viền tinh tế; quần lụa/sa-tanh cùng tông (hồng hoặc xanh nhạt) để tăng cảm giác layer, sang và nhẹ. Giữ nguyên toàn bộ gương mặt từ ảnh tham chiếu — đúng ánh sáng, tông da và thần thái thực, không làm đẹp lại hay tái tạo theo phong cách minh họa\nMakeup hồng đào điện ảnh: nền mịn, bắt sáng vừa ở gò má/sống mũi, má phớt; mắt hồng nude, eyeliner mảnh kéo nhẹ, mi tách sợi; môi hồng đất satin vừa, không rực.\nTóc ngắn nguyên bản như ảnh mẫu tải lên.\nBố cục &amp; đạo cụ: ngồi sát bàn gỗ thấp nâu sẫm, có bộ ấm chén/gốm nhỏ; một tay nâng giấy vàng ngà, tay kia cầm bút như đang viết; dải giấy thư pháp dài rủ xuống làm leading line; chủ thể lệch trái, sen tạo khung, lớp không gian rõ (giấy tiền cảnh – chủ thể+bàn – thư pháp+sen hậu cảnh).\nDáng pose tĩnh thơ: ngồi nghiêng, thân hơi tựa bàn, khuỷu tay đặt nhẹ; cổ nghiêng theo hướng nhìn xuống trang, chuyển động chậm.\nÁnh sáng cinematic mềm: key light khuếch tán từ trái trước, fill nhẹ, rim mỏng ở vai/tóc; bóng dịu giữ độ trong của vải.\nMáy &amp; hậu kỳ: 50/85mm, f/1.8–2.2, DOF nông vừa; góc ngang tầm mắt hơi thấp; palette tím khói–xanh ngọc–hồng sen–nâu gỗ, film warm nhẹ, giảm bão hòa, grain mịn, tương phản vừa, không sharpen.</p>\n<p>Câu lệnh tóc khác thay thế:\nTóc búi thấp mềm hơi rối, thả vài lọn mảnh; nếu có mái thì giữ nguyên; phụ kiện nhỏ đá sáng tối giản.</p>\n"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Tạm-biệt-2025-chào-2026",
+      "title": "Tạm biệt 2025 - Chào 2026",
+      "categories": [
+        "Tạo ảnh AI"
+      ],
+      "cover": "Tạm-biệt-2025-chào-2026/welcome-2026 (1).jpg",
+      "locked": false,
+      "unlockHash": null,
+      "images": [
+        {
+          "name": "goodbye-2025-2.jpg",
+          "srcA": "split/Tạm-biệt-2025-chào-2026/goodbye-2025-2_a.jpg",
+          "srcB": "split/Tạm-biệt-2025-chào-2026/goodbye-2025-2_b.jpg",
+          "thumb": "thumbnails/Tạm-biệt-2025-chào-2026/goodbye-2025-2.jpg",
+          "meta": {
+            "title": "Tạm biệt 2025 - Chào 2026",
+            "tags": [
+              "bính ngọ",
+              "new year"
+            ],
+            "description": "",
+            "content": "<p>a full body shot of a slender young woman with black hair and fair skin, wearing a pink and white traditional Vietnamese ao dai, standing on a sandy beach with the turquoise sea in the background, large letters spelling &quot;GOODBYE 2025&quot; behind her, clear blue sky, soft natural lighting, photo taken in Vietnam, high resolution, beautiful scenery</p>\n"
+          }
+        },
+        {
+          "name": "goodbye-2025.jpg",
+          "srcA": "split/Tạm-biệt-2025-chào-2026/goodbye-2025_a.jpg",
+          "srcB": "split/Tạm-biệt-2025-chào-2026/goodbye-2025_b.jpg",
+          "thumb": "thumbnails/Tạm-biệt-2025-chào-2026/goodbye-2025.jpg",
+          "meta": {
+            "title": "Tạm biệt 2025 - Chào 2026",
+            "tags": [
+              "bính ngọ",
+              "new year",
+              "couple"
+            ],
+            "description": "",
+            "content": "<p>Giữ nguyên 2 gương mặt của 2 ảnh tham chiếu hãy tạo Poster studio quảng cáo siêu sáng. Ảnh toàn thân của một cô gái trẻ da trắng, mặc ÁO DÀI truyền thống màu hồng phối trắng của Việt Nam và chàng trai mặc trang phục áo sơ mi trắng quần xám trắng , đứng trong phòng studio Bảng màu pastel kẹo ngọt, ánh sáng studio cao cấp, ánh sáng mềm mại, tâm trạng vui vẻ chụp ảnh thương mại chuyên nghiệp, siêu thực, dòng chữ lớn &quot;GOODBYE &quot; phía sau ,cả 2 đang vui vẻ ngồi trên một con số 3D màu pastel bóng loáng (20) trong khi nghiêng mình nghịch ngợm vào một con số 3D (25) , độ phân giải cao,chất lượng 4K, chi tiết sắc nét cao cấp, làn da mịn tự nhiên, tỷ lệ 9:16.\nGóc chụp rõ mặt cả hai chủ thể.</p>\n"
+          }
+        },
+        {
+          "name": "welcome-2026 (1).jpg",
+          "srcA": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (1)_a.jpg",
+          "srcB": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (1)_b.jpg",
+          "thumb": "thumbnails/Tạm-biệt-2025-chào-2026/welcome-2026 (1).jpg",
+          "meta": {
+            "title": "Tạm biệt 2025 - Chào 2026",
+            "tags": [
+              "bính ngọ",
+              "new year",
+              "couple"
+            ],
+            "description": "",
+            "content": "<p>Giữ nguyên 2 gương mặt của 2 ảnh tham chiếu hãy tạo Poster studio quảng cáo siêu sáng. Ảnh toàn thân của một cô gái trẻ da trắng, mặc ÁO DÀI truyền thống màu vàng pastel quần trắng của Việt Nam và chàng trai mặc trang phục áo sơ mi hồng pastel quần trắng , đứng trong phòng studio Bảng màu pastel kẹo ngọt, ánh sáng studio cao cấp, ánh sáng mềm mại, tâm trạng thoải mái chụp ảnh thương mại chuyên nghiệp, siêu thực, dòng chữ lớn &quot;WELCOME &quot; phía sau ,cả 2 đang vui vẻ ngồi trên một con số 3D màu pastel bóng loáng (20) trong khi nghiêng mình nghịch ngợm vào một con số 3D màu pastel bóng loáng (26) , độ phân giải cao,chất lượng 8K, chi tiết sắc nét cao cấp, làn da mịn tự nhiên, tỷ lệ 9:16.\nGóc chụp rõ mặt cả hai chủ thể.</p>\n"
+          }
+        },
+        {
+          "name": "welcome-2026 (2).jpg",
+          "srcA": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (2)_a.jpg",
+          "srcB": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (2)_b.jpg",
+          "thumb": "thumbnails/Tạm-biệt-2025-chào-2026/welcome-2026 (2).jpg",
+          "meta": {
+            "title": "Tạm biệt 2025 - Chào 2026",
+            "tags": [
+              "bính ngọ",
+              "new year",
+              "couple"
+            ],
+            "description": "",
+            "content": "<p>Giữ nguyên 2 gương mặt của 2 ảnh tham chiếu hãy tạo Poster studio quảng cáo siêu sáng. Ảnh toàn thân của một cô gái trẻ da trắng, mặc ÁO DÀI truyền thống màu pastel sky quần trắng của Việt Nam và chàng trai mặc trang phục áo sơ mi màu cam pastel quần tây trắng , đứng tạo dáng trong phòng studio Bảng màu pastel kẹo ngọt, ánh sáng studio cao cấp, ánh sáng mềm mại, tâm trạng thoải mái chụp ảnh thương mại chuyên nghiệp, siêu thực, dòng chữ lớn &quot;WELCOME &quot; phía sau ,cả 2 đang cười nhẹ nhàng ngồi trên một con số 3D màu pastel bóng loáng (20) trong khi nghiêng mình nghịch ngợm vào một con số 3D màu pastel bóng loáng (26) , độ phân giải cao,chất lượng 8K, chi tiết sắc nét cao cấp, làn da mịn tự nhiên, tỷ lệ 9:16.\nGóc chụp rõ mặt cả hai chủ thể.</p>\n"
+          }
+        },
+        {
+          "name": "welcome-2026 (3).jpg",
+          "srcA": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (3)_a.jpg",
+          "srcB": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (3)_b.jpg",
+          "thumb": "thumbnails/Tạm-biệt-2025-chào-2026/welcome-2026 (3).jpg",
+          "meta": {
+            "title": "Tạm biệt 2025 - Chào 2026",
+            "tags": [
+              "bính ngọ",
+              "new year",
+              "couple"
+            ],
+            "description": "",
+            "content": "<p>Ultra-bright cute advertising studio poster featuring a cheerful, playful family or couple of any age and ethnicity, all based on the provided uploaded image(s) maintaining their original faces and hairstyles. They are smiling and laughing joyfully, sitting happily on glossy pastel 3D numbers while playfully interacting with each other and leaning against oversized rounded pastel 3D numbers &quot;2&quot;, &quot;0&quot;, &quot;2&quot;, and &quot;6&quot; which form the year 2026. Each person wears soft pastel-colored oversized shirts over white tank tops, paired with light blue jeans, embodying pastel casual outfits. The background is a high-key studio lighting setup with a soft glow, color palette in candy pastel shades, creating a bubbly, joyful, cute, and playful mood. The composition is ultra-realistic, high-end advertising quality, with an aspect ratio of 5:4, no text included. The subjects interact naturally with the glossy pastel 3D numbers and among themselves, all placed in a clean studio environment. Use the uploaded image(s) as the base or reference for the subjects' appearances, faces, and poses, replicating and varying their positions to create a lively, warm, and joyful group or couple scene.</p>\n"
+          }
+        },
+        {
+          "name": "welcome-2026 (4).jpg",
+          "srcA": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (4)_a.jpg",
+          "srcB": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (4)_b.jpg",
+          "thumb": "thumbnails/Tạm-biệt-2025-chào-2026/welcome-2026 (4).jpg",
+          "meta": {
+            "title": "Tạm biệt 2025 - Chào 2026",
+            "tags": [
+              "bính ngọ",
+              "new year",
+              "couple"
+            ],
+            "description": "",
+            "content": "<p>Ultra-bright cute advertising studio poster featuring a cheerful, playful young Thai woman. She is smiling and laughing joyfully, sitting happily on a glossy pastel 3D number &quot;0&quot; while leaning playfully against an oversized rounded pastel 3D number &quot;2&quot;, which is the first digit of &quot;2026&quot; and significantly larger than the others. Her long, soft wavy hair has natural bounce, and her makeup is fresh dewy style with rosy cheeks and glossy lips. She wears a soft pink oversized shirt over a white tank top, paired with light blue jeans, embodying a pastel casual outfit. The background is a high-key studio lighting setup with a soft glow, color palette in candy pastel shades, creating a bubbly, joyful, cute, and playful mood. The composition is ultra-realistic, high-end advertising quality, with an aspect ratio of 5:4, no text included. The subject interacts naturally with the glossy pastel 3D numbers &quot;2&quot;, &quot;0&quot;, and the other digits &quot;2&quot; and &quot;6&quot; forming the year 2026, all placed in a clean studio environment.</p>\n"
+          }
+        },
+        {
+          "name": "welcome-2026 (5).jpg",
+          "srcA": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (5)_a.jpg",
+          "srcB": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (5)_b.jpg",
+          "thumb": "thumbnails/Tạm-biệt-2025-chào-2026/welcome-2026 (5).jpg",
+          "meta": {
+            "title": "Tạm biệt 2025 - Chào 2026",
+            "tags": [
+              "bính ngọ",
+              "new year",
+              "couple"
+            ],
+            "description": "",
+            "content": "<p>Ultra-bright cute advertising studio poster featuring a cheerful, playful man of any age and ethnicity, based on the provided uploaded image. He is smiling and laughing joyfully, sitting happily on a glossy pastel 3D number &quot;0&quot; while leaning playfully against an oversized rounded pastel 3D number &quot;2&quot;, which is the first digit of &quot;2026&quot; and significantly larger than the others. His hair style varies but appears natural with soft waves or texture and a lively bounce. He wears a soft pastel-colored oversized shirt over a white tank top, paired with light blue jeans, embodying a pastel casual outfit. The background is a high-key studio lighting setup with a soft glow, color palette in candy pastel shades, creating a bubbly, joyful, cute, and playful mood. The composition is ultra-realistic, high-end advertising quality, with an aspect ratio of 5:4, no text included. The subject interacts naturally with the glossy pastel 3D numbers &quot;2&quot;, &quot;0&quot;, and the other digits &quot;2&quot; and &quot;6&quot; forming the year 2026, all placed in a clean studio environment. Use the uploaded image as the base or reference for the subject's appearance and pose.</p>\n"
+          }
+        },
+        {
+          "name": "welcome-2026 (6).jpg",
+          "srcA": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (6)_a.jpg",
+          "srcB": "split/Tạm-biệt-2025-chào-2026/welcome-2026 (6)_b.jpg",
+          "thumb": "thumbnails/Tạm-biệt-2025-chào-2026/welcome-2026 (6).jpg",
+          "meta": {
+            "title": "Tạm biệt 2025 - Chào 2026",
+            "tags": [
+              "bính ngọ",
+              "new year",
+              "couple"
+            ],
+            "description": "",
+            "content": "<p>Ultra-bright cute advertising studio poster featuring a cheerful, playful family or couple of any age and ethnicity, all based on the provided uploaded image(s) maintaining their original faces and hairstyles. They are smiling and laughing joyfully, sitting happily on glossy pastel 3D numbers while playfully interacting with each other and leaning against oversized rounded pastel 3D numbers &quot;2&quot;, &quot;0&quot;, &quot;2&quot;, and &quot;6&quot; which form the year 2026. Each person wears soft pastel-colored oversized shirts over white tank tops, paired with light blue jeans, embodying pastel casual outfits. The background is a high-key studio lighting setup with a soft glow, color palette in candy pastel shades, creating a bubbly, joyful, cute, and playful mood. The composition is ultra-realistic, high-end advertising quality, with an aspect ratio of 5:4, no text included. The subjects interact naturally with the glossy pastel 3D numbers and among themselves, all placed in a clean studio environment. Use the uploaded image(s) as the base or reference for the subjects' appearances, faces, and poses, replicating and varying their positions to create a lively, warm, and joyful group or couple scene.</p>\n"
           }
         }
       ]
